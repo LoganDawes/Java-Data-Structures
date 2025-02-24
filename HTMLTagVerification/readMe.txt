@@ -1,4 +1,4 @@
-1. How to Run The Program:
+How to Run The Program:
    
    My file name is Assignment03.java.
 
@@ -17,11 +17,7 @@ java Assignment03 text1.txt
 
 will use text1.txt file as input to check the HTML tag rule.
 
-2. CSX Server Tested On:
-   
-   ssh ldawes@csx1.cs.okstate.edu
-
-3. Assumptions Made:
+Assumptions Made:
    - The program is being run with all of the .java files in the same directory
    - The program is being run with the argument inputFile in the same directory
    - The program assumes the input is provided via standard input.
