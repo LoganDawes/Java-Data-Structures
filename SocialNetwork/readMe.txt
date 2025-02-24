@@ -1,4 +1,4 @@
-1. How to Run The Program:
+How to Run The Program:
    
    My file name is Assignment05.java.
 
@@ -10,11 +10,7 @@ run the program using: java Assignment05
 
 program will prompt user to input the name of the input file.
 
-2. CSX Server Tested On:
-   
-   ssh ldawes@csx1.cs.okstate.edu
-
-3. Assumptions Made:
+Assumptions Made:
    - The program is being run with all of the .java files in the same directory
    - The program is being run with the input file in the same directory
    - The program assumes the input is provided via standard input.
