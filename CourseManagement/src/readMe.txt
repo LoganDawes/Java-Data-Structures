@@ -1,4 +1,4 @@
-1. How to Run The Program:
+How to Run The Program:
    
    To compile the program, use:
    javac *.java
@@ -8,11 +8,8 @@
 
    Where `MainClass` is the class that contains the main method.
 
-2. CSX Server Tested On:
-   
-   ssh ldawes@csx1.cs.okstate.edu
 
-3. Assumptions Made:
+Assumptions Made:
    - The program is being run with all of the .java files in the same package (src)
    - The program assumes the input is provided via standard input.
    - It has been tested using Java version 17.
