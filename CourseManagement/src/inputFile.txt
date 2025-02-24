@@ -1,0 +1,916 @@
+Course Number	Course Name	Students Name	Student ID	Email	Address
+CS 3363	Organization of Programming Languages	River Vickery, Seth	A205820	srvickery@okstate.edu	7874 Wellington Ave.Oklahoma City, OK 73169
+CS 4513	Introduction to Numerical Analysis	Alena Goode, Tiera	A203183	tagoode@okstate.edu	50 Race StreetSpencer, OK 73084
+CS 3030	Industrial Practice in Computer Science	Barrett Bowser, Ronaldo	A892726	rbbowser@okstate.edu	24 Wagon St.Oklahoma City, OK 73130
+CS 3513	Numerical Methods for Digital Computers	Jamia Maldonado, Neha	A710369	njmaldonado@okstate.edu	9936 E. Elizabeth Ave.Edmond, OK 73012
+CS 4323	Design and Implementation of Operating Systems I	Kaufman, Shyanne	A806992	skaufman@okstate.edu	744 Sunset StreetOklahoma City, OK 73119
+CS 4883	Social Issues in Computing	Julia Mulligan, Madalynn	A755513	mjmulligan@okstate.edu	752 Essex Ave.Oklahoma City, OK 73114
+CS 4623	Introduction to Cyber Physical Systems	Pemberton, Shayne	A211935	spemberton@okstate.edu	58 West Dr.Oklahoma City, OK 73111
+CS 4570	Special Topics in Computing	Llamas, Dwayne	A569582	dllamas@okstate.edu	7297 Myers Ave.Oklahoma City, OK 73151
+CS 4373	Agile Software Development	Cinthia Brien, Annette	A696161	acbrien@okstate.edu	8732 Beechwood Ave.Edmond, OK 73025
+CS 3363	Organization of Programming Languages	Keira Noble, Kailee	A839056	kknoble@okstate.edu	73 Sage Dr.Bethany, OK 73008
+MATH 3013	Linear Algebra (A)	Mitchell Felix, Conner	A712834	cmfelix@okstate.edu	914 S. Newbridge Ave.Oklahoma City, OK 73103
+MATH 3013	Linear Algebra (A)	Nyasia Lloyd, Blake	A903981	bnlloyd@okstate.edu	8248 Park LaneOklahoma City, OK 73102
+CS 4993	Senior Honors Project	Everett, Noah	A114674	neverett@okstate.edu	786 Joy Ridge St.Oklahoma City, OK 73145
+CS 4143	Computer Graphics	McClanahan, Gordon	A575046	gmcclanahan@okstate.edu	9433 School Dr.Oklahoma City, OK 73132
+CS 4983	Senior Capstone Project	Kyree Woodall, Maxwell	A565428	mkwoodall@okstate.edu	620 West Peg Shop StreetOklahoma City, OK 73128
+CS 4883	Social Issues in Computing	Gwendolyn Hurt, Amaiya	A635296	aghurt@okstate.edu	922 Country St.Oklahoma City, OK 73117
+CS 3613	Theoretical Foundations of Computing	Beverly, Johnson	A286756	jbeverly@okstate.edu	491 Laurel Ave.Oklahoma City, OK 73121
+CS 2433	C/C++ Programming	Easton, Helena	A654423	heaston@okstate.edu	739 Smoky Hollow AvenueHarrah, OK 73045
+CS 4743	Extended Reality	Slattery, Jaylene	A494369	jslattery@okstate.edu	982 Border CourtOklahoma City, OK 73139
+CS 3513	Numerical Methods for Digital Computers	Kevon Workman, Dashawn	A501914	dkworkman@okstate.edu	320 Vale St.Edmond, OK 73013
+CS 3613	Theoretical Foundations of Computing	Zain Kasper, Coy	A579618	czkasper@okstate.edu	741 Fairway Dr.Oklahoma City, OK 73149
+CS 4153	Mobile Applications Development	Akers, Lizbeth	A355607	lakers@okstate.edu	4 Sherwood Rd.Choctaw, OK 73020
+CS 4283	Computer Networks	Ford, Korbin	A471799	kford@okstate.edu	35 Smoky Hollow DriveOklahoma City, OK 73107
+CS 4183	Video Game Design	Black, George	A702730	gblack@okstate.edu	81 Bridgeton CourtEdmond, OK 73034
+CS 4743	Extended Reality	Cornwell, Brianne	A792776	bcornwell@okstate.edu	5 West Nut Swamp St.Oklahoma City, OK 73127
+CS 4183	Video Game Design	Falcon, Lyric	A153135	lfalcon@okstate.edu	911 Gulf DriveEdmond, OK 73003
+CS 4743	Extended Reality	Francisco, Jude	A794754	jfrancisco@okstate.edu	7452 Glenridge AvenueOklahoma City, OK 73135
+CS 4433	Introduction to Database Systems	Ordonez, Alecia	A895302	aordonez@okstate.edu	8 Manchester StreetOklahoma City, OK 73112
+CS 2433	C/C++ Programming	Cone, Sequoia	A997381	scone@okstate.edu	8718C Adams RoadLuther, OK 73054
+CS 3443	Computer Systems	Stephens, Saira	A817633	sstephens@okstate.edu	7889 Wild Horse Ave.Oklahoma City, OK 73150
+MATH 2163	Calculus III	Longoria, Dorien	A766894	dlongoria@okstate.edu	2 10th CourtOklahoma City, OK 73115
+CS 3353	Data Structures and Algorithm Analysis I	Kauffman, Susanna	A272610	skauffman@okstate.edu	9 South Bedford St.Oklahoma City, OK 73141
+CS 3030	Industrial Practice in Computer Science	Wilburn, Jade	A122521	jwilburn@okstate.edu	9805 North Newport St.Oklahoma City, OK 73105
+CS 4283	Computer Networks	Loren Dix, Dakotah	A610440	dldix@okstate.edu	8230 Harvey Ave.Oklahoma City, OK 73173
+CS 3030	Industrial Practice in Computer Science	Karley Gilliam, Myah	A325749	mkgilliam@okstate.edu	876 Cherry Hill St.Oklahoma City, OK 73134
+MATH 3013	Linear Algebra (A)	Chauncey Forman, Connor	A694801	ccforman@okstate.edu	838 Edgewater CourtOklahoma City, OK 73106
+CS 4513	Introduction to Numerical Analysis	Trey Stone, Elvis	A146961	etstone@okstate.edu	7657 E. Inverness St.Oklahoma City, OK 73179
+MATH 2163	Calculus III	Sade March, Kristyn	A417301	ksmarch@okstate.edu	37 Vale Ave.Oklahoma City, OK 73131
+CS 3353	Data Structures and Algorithm Analysis I	Seth Fontaine, Kadin	A600769	ksfontaine@okstate.edu	8348 Jefferson StreetOklahoma City, OK 73162
+CS 4273	Software Engineering	Pappas, Dustyn	A783734	dpappas@okstate.edu	50 Lower River StreetOklahoma City, OK 73116
+CS 4433	Introduction to Database Systems	Keanu Ragsdale, Miguelangel	A523268	mkragsdale@okstate.edu	643 Grove DriveOklahoma City, OK 73108
+CS 4983	Senior Capstone Project	Erb, Lana	A308295	lerb@okstate.edu	6 Southampton StreetOklahoma City, OK 73142
+CS 4623	Introduction to Cyber Physical Systems	Brendon Shanks, Jarret	A421845	jbshanks@okstate.edu	7963 Bank StreetOklahoma City, OK 73118
+CS 4513	Introduction to Numerical Analysis	Smart, Jaquez	A389006	jsmart@okstate.edu	18 Paris Hill Ave.Oklahoma City, OK 73109
+MATH 3013	Linear Algebra (A)	Choate, Alena	A225218	achoate@okstate.edu	8174 Euclid DriveOklahoma City, OK 73122
+CS 4570	Special Topics in Computing	Santino Green, Sonny	A169035	ssgreen@okstate.edu	39 High Noon St.Oklahoma City, OK 73110
+CS 3443	Computer Systems	Lumpkin, Arden	A947497	alumpkin@okstate.edu	7953 South Greystone St.Oklahoma City, OK 73104
+CS 4883	Social Issues in Computing	Aguayo, Terri	A631981	taguayo@okstate.edu	8107B Blue Spring DriveOklahoma City, OK 73129
+CS 4793	Artificial Intelligence I	Anais Thomson, Myra	A279961	mathomson@okstate.edu	9426 Clinton DriveArcadia, OK 73007
+CS 4183	Video Game Design	Cheney, Joanne	A491326	jcheney@okstate.edu	8317 Bedford Rd.Jones, OK 73049
+CS 4283	Computer Networks	Betts, Houston	A643274	hbetts@okstate.edu	855 Oak Meadow St.Oklahoma City, OK 73120
+CS 3653	Discrete Mathematics for Computer Science	Maia Berg, Evelin	A222663	emberg@okstate.edu	417 Buckingham AvenueOklahoma City, OK 73159
+CS 4173	Video Game Development	Pritchett, Garett	A433941	gpritchett@okstate.edu	7557 Wilson St.Bethany, OK 73008
+CS 4183	Video Game Design	Edgar Chatman, Ashton	A385146	aechatman@okstate.edu	7633 Grove Ave.Edmond, OK 73025
+CS 3443	Computer Systems	Haylee Williams, Kelsea	A547428	khwilliams@okstate.edu	241 Oakwood Rd.Edmond, OK 73003
+CS 3653	Discrete Mathematics for Computer Science	Ridenour, Yesenia	A661985	yridenour@okstate.edu	7828 Cambridge StreetOklahoma City, OK 73151
+CS 3353	Data Structures and Algorithm Analysis I	Bass, Josephine	A511583	jbass@okstate.edu	9207 Shirley St.Oklahoma City, OK 73112
+MATH 2163	Calculus III	Melvin, Will	A455382	wmelvin@okstate.edu	8556 Cleveland DriveOklahoma City, OK 73150
+CS 4783	Machine Learning	Valenzuela, Treasure	A143647	tvalenzuela@okstate.edu	7316 N. Shadow Brook Ave.Oklahoma City, OK 73105
+CS 3443	Computer Systems	Ezequiel Knoll, Stetson	A755749	seknoll@okstate.edu	712 Lincoln Dr.Oklahoma City, OK 73116
+CS 4570	Special Topics in Computing	Plunkett, Caiden	A998920	cplunkett@okstate.edu	9698 Cross St.Choctaw, OK 73020
+CS 4993	Senior Honors Project	Kyle Hairston, Drew	A496755	dkhairston@okstate.edu	31 Lakeshore Dr.Oklahoma City, OK 73141
+CS 3513	Numerical Methods for Digital Computers	Heaven Whitmore, Katelynn	A443632	khwhitmore@okstate.edu	398 Paris Hill Dr.Oklahoma City, OK 73145
+CS 3513	Numerical Methods for Digital Computers	Aidan Lawrence, Kai	A232199	kalawrence@okstate.edu	1 Griffin CourtOklahoma City, OK 73104
+CS 4153	Mobile Applications Development	Epperson, Anna	A395447	aepperson@okstate.edu	271 Thomas Ave.Oklahoma City, OK 73142
+CS 4143	Computer Graphics	Kacey Harper, Ivana	A878125	ikharper@okstate.edu	23 Lake Forest DriveOklahoma City, OK 73102
+CS 2433	C/C++ Programming	Greene, Cristian	A421705	cgreene@okstate.edu	9009 Birchwood St.Spencer, OK 73084
+CS 4883	Social Issues in Computing	Strange, Jaycob	A243735	jstrange@okstate.edu	11 Valley Farms Ave.Oklahoma City, OK 73139
+CS 4523	Cloud Computing and Distributed Systems	McMahan, Nathalie	A314233	nmcmahan@okstate.edu	7002 Arch Ave.Edmond, OK 73013
+CS 3613	Theoretical Foundations of Computing	Manley, Ronaldo	A219132	rmanley@okstate.edu	896 West Cedar Swamp Ave.Oklahoma City, OK 73128
+CS 3613	Theoretical Foundations of Computing	Anton Irizarry, Roland	A215726	rairizarry@okstate.edu	69 Valley St.Harrah, OK 73045
+CS 3570	Special Problems in Computer Science	Tammy Saldana, Tasia	A823040	ttsaldana@okstate.edu	272 Fifth StreetOklahoma City, OK 73103
+CS 3653	Discrete Mathematics for Computer Science	Jenna Olvera, Abril	A774685	ajolvera@okstate.edu	277 Brickell St.Oklahoma City, OK 73119
+CS 4743	Extended Reality	McCoy, Lesli	A679287	lmccoy@okstate.edu	148 South Galvin AvenueOklahoma City, OK 73130
+CS 3443	Computer Systems	Malaysia Grier, Hollie	A416721	hmgrier@okstate.edu	566 Rockaway St.Oklahoma City, OK 73129
+MATH 3013	Linear Algebra (A)	Christman, Aiden	A545825	achristman@okstate.edu	85 Marlborough St.Oklahoma City, OK 73114
+CS 3513	Numerical Methods for Digital Computers	Wetzel, Rick	A542240	rwetzel@okstate.edu	349 Wild Rose StreetOklahoma City, OK 73107
+CS 4983	Senior Capstone Project	Linder, Pierre	A496703	plinder@okstate.edu	8421 Honey Creek St.Oklahoma City, OK 73173
+CS 3570	Special Problems in Computer Science	Kalyn Peek, Rebeca	A123081	rkpeek@okstate.edu	82 East Mill St.Oklahoma City, OK 73110
+CS 3570	Special Problems in Computer Science	Emely Carlin, Guadalupe	A878348	gecarlin@okstate.edu	9842 West Cardinal Ave.Oklahoma City, OK 73111
+CS 4793	Artificial Intelligence I	Benjamin, Manuel	A404396	mbenjamin@okstate.edu	869 Winchester StreetEdmond, OK 73034
+CS 4373	Agile Software Development	Esther Falk, Annalisa	A278328	aefalk@okstate.edu	6 Woodland Ave.Oklahoma City, OK 73179
+CS 4323	Design and Implementation of Operating Systems I	Sommer, Sheila	A446729	ssommer@okstate.edu	61 Vernon DriveOklahoma City, OK 73127
+CS 3363	Organization of Programming Languages	Bishop Mcgrew, Caleb	A129378	cbmcgrew@okstate.edu	661 South Lookout StreetOklahoma City, OK 73162
+CS 3030	Industrial Practice in Computer Science	Streeter, Oliver	A561073	ostreeter@okstate.edu	1 Meadowbrook StreetOklahoma City, OK 73131
+CS 3570	Special Problems in Computer Science	Harms, Blair	A869208	bharms@okstate.edu	98 River Ave.Arcadia, OK 73007
+CS 4783	Machine Learning	Angel Cabral, Felipe	A673640	facabral@okstate.edu	7898 North Cactus St.Oklahoma City, OK 73134
+CS 4623	Introduction to Cyber Physical Systems	Jesenia Newby, Willow	A616057	wjnewby@okstate.edu	647 Pennsylvania St.Edmond, OK 73012
+CS 4433	Introduction to Database Systems	Cristopher Grimm, Trevor	A596823	tcgrimm@okstate.edu	8223 Galvin StreetOklahoma City, OK 73108
+CS 3353	Data Structures and Algorithm Analysis I	Seward, Matthew	A466623	mseward@okstate.edu	61 Goldfield St.Oklahoma City, OK 73122
+CS 3513	Numerical Methods for Digital Computers	Sonja Lugo, Destiney	A629019	dslugo@okstate.edu	9919 Yukon CircleOklahoma City, OK 73121
+CS 4513	Introduction to Numerical Analysis	George Flannery, Rodolfo	A207883	rgflannery@okstate.edu	8392 Pineknoll Rd.Oklahoma City, OK 73159
+CS 3030	Industrial Practice in Computer Science	Phelan, Sarina	A125233	sphelan@okstate.edu	778 Meadowbrook Ave.Oklahoma City, OK 73169
+CS 4273	Software Engineering	Kinsey, Garett	A972686	gkinsey@okstate.edu	235 Trout St.Oklahoma City, OK 73120
+CS 3443	Computer Systems	Melvin, Jaidyn	A571722	jmelvin@okstate.edu	9979B University RoadOklahoma City, OK 73132
+CS 3353	Data Structures and Algorithm Analysis I	Davion Doan, Kieran	A540992	kddoan@okstate.edu	7267 St Louis CourtOklahoma City, OK 73117
+CS 4153	Mobile Applications Development	Lexis Busby, Shelly	A979964	slbusby@okstate.edu	98 W. Walt Whitman StreetOklahoma City, OK 73106
+CS 4513	Introduction to Numerical Analysis	Laci Small, Abbie	A918476	alsmall@okstate.edu	43 Santa Clara RoadOklahoma City, OK 73109
+CS 3363	Organization of Programming Languages	Long, Nicklaus	A541154	nlong@okstate.edu	7830 Penn Ave.Oklahoma City, OK 73118
+CS 2433	C/C++ Programming	Nelson, Tyrique	A528038	tnelson@okstate.edu	121 Beech Ave.Oklahoma City, OK 73115
+CS 4153	Mobile Applications Development	Ross, Kasandra	A726928	kross@okstate.edu	7597 W. Shub Farm Dr.Oklahoma City, OK 73135
+CS 4883	Social Issues in Computing	Theodore Aguirre, Keandre	A273032	ktaguirre@okstate.edu	4 Hanover LaneLuther, OK 73054
+CS 4373	Agile Software Development	Rosas, Dante	A386088	drosas@okstate.edu	9531B Lilac StreetJones, OK 73049
+CS 2433	C/C++ Programming	Charlie Franks, Tatiyana	A629645	tcfranks@okstate.edu	838 Ridgewood RoadOklahoma City, OK 73149
+CS 4283	Computer Networks	Arsenault, Guadalupe	A870964	garsenault@okstate.edu	9510 Mill DriveOklahoma City, OK 73111
+CS 3353	Data Structures and Algorithm Analysis I	Freddie Sorensen, Bret	A426294	bfsorensen@okstate.edu	23 Leatherwood StreetOklahoma City, OK 73134
+CS 4373	Agile Software Development	Shamya Carey, Akira	A538447	ascarey@okstate.edu	993 Gartner DriveLuther, OK 73054
+CS 4743	Extended Reality	Lara, Halee	A866608	hlara@okstate.edu	9083 Summit Dr.Edmond, OK 73025
+CS 3030	Industrial Practice in Computer Science	Brynne Brinson, Mireya	A880841	mbbrinson@okstate.edu	7815 Corona Ave.Oklahoma City, OK 73150
+CS 4283	Computer Networks	Dietrich, Autumn	A360065	adietrich@okstate.edu	7906 Sugar DriveOklahoma City, OK 73104
+CS 3570	Special Problems in Computer Science	Anjali Apodaca, Lillie	A376327	laapodaca@okstate.edu	192 Delaware DriveOklahoma City, OK 73103
+CS 4273	Software Engineering	Ng, Janine	A480666	jng@okstate.edu	8408 Sherman Rd.Oklahoma City, OK 73139
+CS 4783	Machine Learning	Olivarez, Abdul	A253216	aolivarez@okstate.edu	822 Mayfield St.Oklahoma City, OK 73149
+CS 4523	Cloud Computing and Distributed Systems	Ahmed Rudd, Tyree	A274655	tarudd@okstate.edu	124 Mammoth CircleOklahoma City, OK 73122
+CS 4323	Design and Implementation of Operating Systems I	Marquez Parrish, Jerrod	A751098	jmparrish@okstate.edu	637 West Pearl Ave.Edmond, OK 73013
+CS 4183	Video Game Design	Heil, Kellen	A552592	kheil@okstate.edu	715 E. Albany Ave.Choctaw, OK 73020
+CS 4783	Machine Learning	Jordy Shaffer, Rashad	A618038	rjshaffer@okstate.edu	8860 Clay Ave.Oklahoma City, OK 73151
+CS 4883	Social Issues in Computing	Biddle, Ashton	A128187	abiddle@okstate.edu	12 Schoolhouse St.Oklahoma City, OK 73120
+CS 4153	Mobile Applications Development	Wetzel, Leighton	A137270	lwetzel@okstate.edu	5 Shirley LaneOklahoma City, OK 73135
+CS 4373	Agile Software Development	Sherman Bourgeois, Britton	A693762	bsbourgeois@okstate.edu	201 W. Pawnee Ave.Oklahoma City, OK 73141
+CS 3030	Industrial Practice in Computer Science	Fidel Bean, Draven	A340524	dfbean@okstate.edu	8324 Valley DriveOklahoma City, OK 73128
+CS 4783	Machine Learning	Johns, Devin	A905109	djohns@okstate.edu	3 Helen StreetOklahoma City, OK 73107
+CS 3030	Industrial Practice in Computer Science	Rider, Kalista	A187791	krider@okstate.edu	10 Rock Maple Dr.Arcadia, OK 73007
+CS 4743	Extended Reality	Briggs, Cayla	A716031	cbriggs@okstate.edu	954 Brook StreetOklahoma City, OK 73115
+CS 3030	Industrial Practice in Computer Science	Colt Connor, Jaylin	A163685	jcconnor@okstate.edu	8276 3rd St.Oklahoma City, OK 73179
+CS 4143	Computer Graphics	Delaney Cyr, Stefany	A187847	sdcyr@okstate.edu	9851 Bridle StreetOklahoma City, OK 73116
+CS 2433	C/C++ Programming	Lam, Francisco	A905132	flam@okstate.edu	24 Alton DriveOklahoma City, OK 73114
+CS 4523	Cloud Computing and Distributed Systems	Cassidy Brunner, Ashlynn	A764271	acbrunner@okstate.edu	515 Dogwood StreetOklahoma City, OK 73118
+CS 4993	Senior Honors Project	Javen Sotelo, Deion	A451867	djsotelo@okstate.edu	1 E. Deerfield St.Oklahoma City, OK 73117
+CS 4143	Computer Graphics	Denney, Aditya	A456831	adenney@okstate.edu	329 Lake View Ave.Bethany, OK 73008
+MATH 2163	Calculus III	Munson, Carly	A953217	cmunson@okstate.edu	8080 Holly Ave.Oklahoma City, OK 73130
+CS 4513	Introduction to Numerical Analysis	Beatty, Brianne	A878895	bbeatty@okstate.edu	323 Arrowhead StreetEdmond, OK 73012
+CS 4623	Introduction to Cyber Physical Systems	Ventura, Ivanna	A421723	iventura@okstate.edu	9311 Oklahoma Ave.Oklahoma City, OK 73121
+MATH 3013	Linear Algebra (A)	Meagan Urban, Elsie	A371098	emurban@okstate.edu	76 E. Linda StreetOklahoma City, OK 73142
+CS 3513	Numerical Methods for Digital Computers	Madisyn Goforth, Yasmeen	A974317	ymgoforth@okstate.edu	27 Elm St.Edmond, OK 73034
+CS 4143	Computer Graphics	Mcafee, Bailey	A618280	bmcafee@okstate.edu	8489 Cooper St.Oklahoma City, OK 73106
+CS 3570	Special Problems in Computer Science	Zuniga, Addison	A475561	azuniga@okstate.edu	8266 Rockwell St.Oklahoma City, OK 73169
+CS 3653	Discrete Mathematics for Computer Science	Leila Ellington, Yaquelin	A248344	ylellington@okstate.edu	9966 Durham CourtOklahoma City, OK 73108
+MATH 3013	Linear Algebra (A)	Tania Steed, Haley	A271059	htsteed@okstate.edu	43 Pearl St.Oklahoma City, OK 73105
+CS 4993	Senior Honors Project	Antoinette Westfall, Aiyanna	A162170	aawestfall@okstate.edu	718 Branch Rd.Harrah, OK 73045
+CS 4983	Senior Capstone Project	Tony Thorne, Rohan	A608460	rtthorne@okstate.edu	7643 Spring LaneOklahoma City, OK 73159
+CS 4243	Introduction to Computer Security	Juana Najera, Cassie	A143114	cjnajera@okstate.edu	8248 Market St.Oklahoma City, OK 73119
+CS 4993	Senior Honors Project	Noriega, Leona	A448061	lnoriega@okstate.edu	9809 N. Hill Field Dr.Oklahoma City, OK 73109
+CS 4623	Introduction to Cyber Physical Systems	Baumann, Dwayne	A108168	dbaumann@okstate.edu	9413 Winchester DriveOklahoma City, OK 73162
+CS 3353	Data Structures and Algorithm Analysis I	Kayden Do, Chauncey	A168530	ckdo@okstate.edu	818 East Beach DriveOklahoma City, OK 73127
+CS 4273	Software Engineering	Pierre McCord, Reese	A552673	rpmccord@okstate.edu	9206 Arcadia CourtOklahoma City, OK 73145
+CS 4793	Artificial Intelligence I	Capps, Sarai	A902818	scapps@okstate.edu	17 Maiden Ave.Spencer, OK 73084
+CS 4173	Video Game Development	Jeniffer Michel, Alessandra	A302787	ajmichel@okstate.edu	7403 Mulberry Rd.Oklahoma City, OK 73173
+CS 3653	Discrete Mathematics for Computer Science	Gallant, Miles	A189511	mgallant@okstate.edu	477 N. Trusel DriveOklahoma City, OK 73131
+CS 4283	Computer Networks	Alejandra Pina, Cristal	A810103	capina@okstate.edu	55 William St.Jones, OK 73049
+CS 4183	Video Game Design	Krystal Leach, Dorothy	A698506	dkleach@okstate.edu	95 Bowman St.Oklahoma City, OK 73129
+CS 3613	Theoretical Foundations of Computing	Kolton Gall, Johnpaul	A926999	jkgall@okstate.edu	75 Highland Dr.Oklahoma City, OK 73110
+CS 4993	Senior Honors Project	Benton, Bridget	A610924	bbenton@okstate.edu	651 Ann LaneEdmond, OK 73003
+CS 4793	Artificial Intelligence I	Royce Bauer, Branden	A308789	brbauer@okstate.edu	609 North Tarkiln Hill DriveOklahoma City, OK 73102
+CS 4993	Senior Honors Project	Bentley, Freddie	A266258	fbentley@okstate.edu	9173 Rockaway St.Oklahoma City, OK 73112
+CS 4523	Cloud Computing and Distributed Systems	Godinez, Cayden	A328811	cgodinez@okstate.edu	170 East Alderwood St.Oklahoma City, OK 73132
+CS 4883	Social Issues in Computing	Lizette Clough, Joslyn	A884602	jlclough@okstate.edu	7930 North Wood RoadSpencer, OK 73084
+CS 4793	Artificial Intelligence I	Coker, Elias	A168640	ecoker@okstate.edu	7 Ashley St.Oklahoma City, OK 73119
+CS 4283	Computer Networks	Mohammed, Dejuan	A374645	dmohammed@okstate.edu	939 Leatherwood St.Luther, OK 73054
+CS 4523	Cloud Computing and Distributed Systems	Ramon Pressley, Shlomo	A886186	srpressley@okstate.edu	86 Gregory St.Oklahoma City, OK 73159
+CS 4743	Extended Reality	Louie Gupta, Justin	A791343	jlgupta@okstate.edu	53 Tarkiln Hill Ave.Oklahoma City, OK 73102
+CS 3513	Numerical Methods for Digital Computers	Aguilera, Cameron	A422268	caguilera@okstate.edu	7116 Piper Ave.Oklahoma City, OK 73151
+CS 4153	Mobile Applications Development	Lemay, Khalid	A586601	klemay@okstate.edu	37 Church Ave.Oklahoma City, OK 73118
+CS 4143	Computer Graphics	Cuevas, Ilana	A339383	icuevas@okstate.edu	6 Temple Ave.Oklahoma City, OK 73179
+CS 3030	Industrial Practice in Computer Science	Haggerty, Jaden	A446706	jhaggerty@okstate.edu	9904 Myrtle Dr.Choctaw, OK 73020
+CS 4983	Senior Capstone Project	Fabian Dodson, Jericho	A577794	jfdodson@okstate.edu	916 N. Roberts LaneOklahoma City, OK 73104
+CS 4173	Video Game Development	Brock Addison, Howard	A570569	hbaddison@okstate.edu	860 Ramblewood Dr.Oklahoma City, OK 73149
+CS 4243	Introduction to Computer Security	Bates, Kurtis	A899964	kbates@okstate.edu	474 Walnutwood St.Oklahoma City, OK 73107
+CS 4433	Introduction to Database Systems	Rosenberg, Santino	A555201	srosenberg@okstate.edu	97 Madison Rd.Oklahoma City, OK 73116
+CS 4433	Introduction to Database Systems	Adrianne James, Tonya	A682182	tajames@okstate.edu	7381 Miles LaneArcadia, OK 73007
+CS 4283	Computer Networks	Jelani Blanton, Coleman	A535321	cjblanton@okstate.edu	756 Squaw Creek LaneOklahoma City, OK 73112
+CS 3570	Special Problems in Computer Science	Casteel, Selah	A250798	scasteel@okstate.edu	849 Fairview StreetJones, OK 73049
+CS 4183	Video Game Design	Cruse, Itzel	A290499	icruse@okstate.edu	9963 Jockey Hollow St.Oklahoma City, OK 73106
+CS 3653	Discrete Mathematics for Computer Science	Logan Handley, Chance	A326732	clhandley@okstate.edu	61 New CourtOklahoma City, OK 73122
+CS 3570	Special Problems in Computer Science	Hoppe, Ulises	A726596	uhoppe@okstate.edu	7813 East West Ave.Edmond, OK 73003
+CS 4983	Senior Capstone Project	Elena Matos, Ashlie	A627184	aematos@okstate.edu	886 Walnut St.Oklahoma City, OK 73162
+CS 4570	Special Topics in Computing	Jacquelin Gill, Joanna	A651696	jjgill@okstate.edu	517 W. Delaware DriveOklahoma City, OK 73109
+CS 4273	Software Engineering	Shifflett, Diana	A950348	dshifflett@okstate.edu	600 Lower River St.Harrah, OK 73045
+CS 4743	Extended Reality	Justus Fish, Clifford	A431892	cjfish@okstate.edu	9608 Hickory LaneOklahoma City, OK 73103
+CS 4993	Senior Honors Project	French, Zachary	A729266	zfrench@okstate.edu	143 Laurel Dr.Oklahoma City, OK 73145
+CS 4153	Mobile Applications Development	Doyle, Erykah	A670878	edoyle@okstate.edu	8521 Snake Hill RoadOklahoma City, OK 73130
+CS 3353	Data Structures and Algorithm Analysis I	Loren Epstein, Randy	A611302	rlepstein@okstate.edu	95 High Rd.Oklahoma City, OK 73121
+CS 4983	Senior Capstone Project	Blackburn, Miracle	A600974	mblackburn@okstate.edu	7 Rockland St.Oklahoma City, OK 73105
+CS 4570	Special Topics in Computing	Garay, Rachael	A401312	rgaray@okstate.edu	9 Mill DriveOklahoma City, OK 73139
+CS 3030	Industrial Practice in Computer Science	Rick Gerber, Vance	A361353	vrgerber@okstate.edu	48 Galvin Dr.Oklahoma City, OK 73127
+CS 3513	Numerical Methods for Digital Computers	Chandler, Donte	A247286	dchandler@okstate.edu	481 W. Bay Meadows St.Oklahoma City, OK 73150
+CS 4793	Artificial Intelligence I	Jaret Dennis, Sean	A926401	sjdennis@okstate.edu	9072 Buttonwood Ave.Edmond, OK 73013
+CS 4570	Special Topics in Computing	Black, Rodrigo	A922063	rblack@okstate.edu	801 Sunnyslope Ave.Oklahoma City, OK 73132
+CS 4433	Introduction to Database Systems	Asha Mahon, Iyana	A982632	iamahon@okstate.edu	893 North 3rd RoadBethany, OK 73008
+CS 4793	Artificial Intelligence I	Wahl, Jonah	A320210	jwahl@okstate.edu	7965 Primrose DriveOklahoma City, OK 73169
+CS 2433	C/C++ Programming	Whelan, Breanna	A396239	bwhelan@okstate.edu	62 Santa Clara St.Oklahoma City, OK 73173
+MATH 3013	Linear Algebra (A)	Augustine Carlos, Jesus	A296524	jacarlos@okstate.edu	445 Somerset LaneOklahoma City, OK 73114
+CS 4983	Senior Capstone Project	Brinson, Esperanza	A111461	ebrinson@okstate.edu	36 Lower River Ave.Edmond, OK 73012
+CS 3363	Organization of Programming Languages	Peacock, Ashlynn	A264829	apeacock@okstate.edu	81 Strawberry StreetEdmond, OK 73025
+CS 3443	Computer Systems	Ariel Kirk, Kristian	A733338	kakirk@okstate.edu	357 Smith Store Ave.Oklahoma City, OK 73134
+CS 4513	Introduction to Numerical Analysis	Beal, Dara	A258548	dbeal@okstate.edu	5 Theatre StreetOklahoma City, OK 73135
+MATH 2163	Calculus III	Jovanni Breedlove, Kobe	A332657	kjbreedlove@okstate.edu	9577 Hamilton StreetOklahoma City, OK 73110
+MATH 2163	Calculus III	Tamera Shaffer, Tristan	A777978	ttshaffer@okstate.edu	7343 St Paul St.Oklahoma City, OK 73117
+CS 4513	Introduction to Numerical Analysis	Fries, Jordyn	A667243	jfries@okstate.edu	7733 Beaver Ridge LaneOklahoma City, OK 73129
+CS 4743	Extended Reality	Makayla McMahan, Anika	A630365	ammcmahan@okstate.edu	7089 South Buttonwood St.Oklahoma City, OK 73128
+CS 2433	C/C++ Programming	Dupree, Chase	A898241	cdupree@okstate.edu	369 Green Lake StreetOklahoma City, OK 73111
+CS 4793	Artificial Intelligence I	Derrick Combs, Efrain	A696876	edcombs@okstate.edu	15 Trout St.Edmond, OK 73034
+CS 4433	Introduction to Database Systems	Prieto, Christion	A417777	cprieto@okstate.edu	171 W. Poor House Ave.Oklahoma City, OK 73115
+CS 4373	Agile Software Development	Gutierrez, Rohan	A862985	rgutierrez@okstate.edu	50 Rockaway Ave.Oklahoma City, OK 73131
+CS 4523	Cloud Computing and Distributed Systems	Kameryn Mcvey, Sabrina	A145409	skmcvey@okstate.edu	4 Union Ave.Oklahoma City, OK 73142
+CS 4143	Computer Graphics	Jennifer Norman, Tyana	A652584	tjnorman@okstate.edu	9721 S. San Pablo Dr.Oklahoma City, OK 73120
+CS 4243	Introduction to Computer Security	Abreu, Yasmin	A546533	yabreu@okstate.edu	7 Airport CourtOklahoma City, OK 73141
+CS 3363	Organization of Programming Languages	Natali Wicks, Shae	A772561	snwicks@okstate.edu	437 Summer St.Oklahoma City, OK 73108
+CS 4153	Mobile Applications Development	Bland, Alexzander	A218513	abland@okstate.edu	8708 Richardson Ave.Oklahoma City, OK 73162
+CS 4523	Cloud Computing and Distributed Systems	Burgess, Corrina	A310320	cburgess@okstate.edu	8875 SW. Tunnel StreetOklahoma City, OK 73112
+MATH 2163	Calculus III	Kenneth Newsom, Dion	A386943	dknewsom@okstate.edu	237 Marsh Ave.Oklahoma City, OK 73110
+CS 4373	Agile Software Development	Broughton, Keyon	A262027	kbroughton@okstate.edu	2 Delaware Ave.Oklahoma City, OK 73122
+CS 4283	Computer Networks	Zavier Hollins, Oswaldo	A273078	ozhollins@okstate.edu	69 North St.Oklahoma City, OK 73127
+CS 4283	Computer Networks	Guillen, Arjun	A529993	aguillen@okstate.edu	9270 Ridgeview Ave.Harrah, OK 73045
+CS 3513	Numerical Methods for Digital Computers	Castro, Markel	A196289	mcastro@okstate.edu	7094 Nicolls AvenueOklahoma City, OK 73142
+CS 3513	Numerical Methods for Digital Computers	Malley, Gemma	A115694	gmalley@okstate.edu	56 Mechanic DriveEdmond, OK 73025
+CS 4883	Social Issues in Computing	Rhea Muniz, Dajah	A215573	drmuniz@okstate.edu	7500 Leatherwood St.Oklahoma City, OK 73105
+CS 4433	Introduction to Database Systems	Constance Arnett, Kirstin	A915341	kcarnett@okstate.edu	8484 Ridgeview StreetOklahoma City, OK 73159
+CS 4173	Video Game Development	Aaron Garay, Theo	A470000	tagaray@okstate.edu	891 Main Ave.Oklahoma City, OK 73131
+CS 4273	Software Engineering	Jazmyne Coker, Ashly	A894802	ajcoker@okstate.edu	495 Temple LaneOklahoma City, OK 73106
+CS 4433	Introduction to Database Systems	Mackenzie, Annabel	A942077	amackenzie@okstate.edu	749 North Cherry St.Edmond, OK 73034
+CS 3653	Discrete Mathematics for Computer Science	Peek, Jean	A924475	jpeek@okstate.edu	8812 Roberts Dr.Oklahoma City, OK 73119
+CS 2433	C/C++ Programming	Frick, Bryon	A305012	bfrick@okstate.edu	7101 Overlook St.Oklahoma City, OK 73118
+CS 3443	Computer Systems	Pearl Hull, Makaila	A910099	mphull@okstate.edu	7691 E. Forest St.Oklahoma City, OK 73115
+CS 4883	Social Issues in Computing	Trent, Ty	A835587	ttrent@okstate.edu	8774 E. Alderwood Ave.Oklahoma City, OK 73179
+CS 4993	Senior Honors Project	Allard, Dillan	A402436	dallard@okstate.edu	7706 Henry StreetChoctaw, OK 73020
+CS 4433	Introduction to Database Systems	Dillon Boone, Bryant	A821359	bdboone@okstate.edu	901 North Market StreetOklahoma City, OK 73141
+CS 4523	Cloud Computing and Distributed Systems	Barbosa, Daveon	A969720	dbarbosa@okstate.edu	7952 Miles CourtOklahoma City, OK 73103
+CS 4983	Senior Capstone Project	Breen, Daylon	A388229	dbreen@okstate.edu	9609 Country Club St.Bethany, OK 73008
+CS 4243	Introduction to Computer Security	Brook Chiu, Julieta	A972550	jbchiu@okstate.edu	8383 N. Livingston St.Oklahoma City, OK 73145
+CS 4153	Mobile Applications Development	Ashlin Weldon, Cecilia	A952687	caweldon@okstate.edu	21 Chestnut St.Luther, OK 73054
+CS 4273	Software Engineering	McCarter, Garrett	A926894	gmccarter@okstate.edu	373 NE. Church AvenueOklahoma City, OK 73111
+CS 4153	Mobile Applications Development	Daria Strauss, Princess	A546509	pdstrauss@okstate.edu	7132 York LaneEdmond, OK 73003
+CS 3653	Discrete Mathematics for Computer Science	Kuykendall, Jordyn	A522254	jkuykendall@okstate.edu	959 Armstrong StreetEdmond, OK 73013
+CS 4283	Computer Networks	Pantoja, Garrison	A129612	gpantoja@okstate.edu	8532 Franklin St.Oklahoma City, OK 73114
+CS 3570	Special Problems in Computer Science	Elisha Vitale, Eli	A542917	eevitale@okstate.edu	627 Spring St.Spencer, OK 73084
+CS 4183	Video Game Design	Michael, Kristal	A175100	kmichael@okstate.edu	345 Arcadia Rd.Oklahoma City, OK 73109
+CS 4153	Mobile Applications Development	McNeil, Erykah	A524359	emcneil@okstate.edu	40 High Ridge CourtJones, OK 73049
+CS 3613	Theoretical Foundations of Computing	Matteo Rosas, Aden	A566068	amrosas@okstate.edu	931 Smoky Hollow St.Oklahoma City, OK 73129
+CS 4173	Video Game Development	Knudsen, Theodore	A629214	tknudsen@okstate.edu	8624 Gartner LaneOklahoma City, OK 73128
+CS 4173	Video Game Development	Abril Tracy, Jolene	A337037	jatracy@okstate.edu	1 Newcastle Ave.Oklahoma City, OK 73121
+CS 4993	Senior Honors Project	Reno, Kaylie	A305017	kreno@okstate.edu	850 Jones St.Oklahoma City, OK 73139
+CS 3443	Computer Systems	Mcafee, Quinten	A974342	qmcafee@okstate.edu	8465 E. Glenholme LaneOklahoma City, OK 73107
+CS 4283	Computer Networks	Hirsch, Bryn	A622853	bhirsch@okstate.edu	9520 Bridgeton Ave.Edmond, OK 73012
+CS 3363	Organization of Programming Languages	Jacobson, Keeley	A492270	kjacobson@okstate.edu	436 Gulf LaneOklahoma City, OK 73173
+CS 2433	C/C++ Programming	Jerimiah Epps, Jake	A989944	jjepps@okstate.edu	9252 Lafayette StreetOklahoma City, OK 73102
+CS 3363	Organization of Programming Languages	Guerrero, Desire	A491813	dguerrero@okstate.edu	37 Bellevue StreetOklahoma City, OK 73150
+CS 3613	Theoretical Foundations of Computing	Brady Huff, Francesco	A255517	fbhuff@okstate.edu	248 Green Lake Ave.Oklahoma City, OK 73120
+CS 4783	Machine Learning	Ferguson, Kaila	A828287	kferguson@okstate.edu	7113 Sunbeam Ave.Oklahoma City, OK 73134
+CS 3353	Data Structures and Algorithm Analysis I	Demers, Jonathan	A802317	jdemers@okstate.edu	563 Vine St.Oklahoma City, OK 73169
+CS 3613	Theoretical Foundations of Computing	Mosier, Jeremy	A142731	jmosier@okstate.edu	1 Meadow St.Oklahoma City, OK 73130
+CS 3353	Data Structures and Algorithm Analysis I	Spencer, Mikel	A670630	mspencer@okstate.edu	8027 North LaneOklahoma City, OK 73104
+CS 4523	Cloud Computing and Distributed Systems	Dylan Beal, Johan	A149705	jdbeal@okstate.edu	8935 Kirkland St.Oklahoma City, OK 73117
+CS 3613	Theoretical Foundations of Computing	Hernandez, Corrina	A916029	chernandez@okstate.edu	590 Lees Creek Rd.Oklahoma City, OK 73108
+CS 4883	Social Issues in Computing	Hairston, Abagail	A560371	ahairston@okstate.edu	28 Hanover StreetOklahoma City, OK 73116
+CS 4243	Introduction to Computer Security	Harold Pollard, Benito	A490777	bhpollard@okstate.edu	628 East Nicolls St.Arcadia, OK 73007
+CS 4323	Design and Implementation of Operating Systems I	Teresa Proctor, Miya	A352159	mtproctor@okstate.edu	9770 Smith Store LaneOklahoma City, OK 73135
+CS 4883	Social Issues in Computing	Kaitlin Helton, Katarina	A945191	kkhelton@okstate.edu	979 Foxrun Rd.Oklahoma City, OK 73132
+CS 4993	Senior Honors Project	Paola England, Briana	A632931	bpengland@okstate.edu	7874 Lakeshore St.Oklahoma City, OK 73149
+CS 3653	Discrete Mathematics for Computer Science	Miles Bowman, Marquise	A493599	mmbowman@okstate.edu	7 N. Rock Maple St.Oklahoma City, OK 73151
+CS 4323	Design and Implementation of Operating Systems I	France, Yolanda	A397582	yfrance@okstate.edu	7421 South Essex StreetOklahoma City, OK 73130
+CS 4983	Senior Capstone Project	Qualls, Kyle	A799883	kqualls@okstate.edu	7124 East Rock Creek Ave.Oklahoma City, OK 73118
+CS 4783	Machine Learning	Colten Hand, Kayden	A726479	kchand@okstate.edu	7936 W. Chapel StreetEdmond, OK 73013
+CS 4570	Special Topics in Computing	Kaiya Deaton, Baby	A649010	bkdeaton@okstate.edu	7977 S. Walnutwood CourtOklahoma City, OK 73122
+CS 3513	Numerical Methods for Digital Computers	Jamil Parry, Stephan	A433521	sjparry@okstate.edu	9001 East LaneOklahoma City, OK 73179
+CS 4273	Software Engineering	Deshawn Wells, Allan	A711060	adwells@okstate.edu	1 Lakeshore St.Edmond, OK 73003
+CS 3030	Industrial Practice in Computer Science	Barnard, Zoey	A961036	zbarnard@okstate.edu	7896 South Beaver Ridge StreetLuther, OK 73054
+CS 4243	Introduction to Computer Security	Thao, Kobi	A369888	kthao@okstate.edu	317 Lakewood Rd.Oklahoma City, OK 73173
+CS 3513	Numerical Methods for Digital Computers	Derosa, Alexzander	A784760	aderosa@okstate.edu	8602 Academy StreetOklahoma City, OK 73107
+CS 3030	Industrial Practice in Computer Science	Zion Steffen, Paul	A590174	pzsteffen@okstate.edu	18 Colonial Ave.Oklahoma City, OK 73102
+MATH 2163	Calculus III	Zackary Trinidad, Devan	A543675	dztrinidad@okstate.edu	7665 E. Bowman Dr.Oklahoma City, OK 73128
+CS 4433	Introduction to Database Systems	Richard, Tevin	A462579	trichard@okstate.edu	68 Oak Ave.Oklahoma City, OK 73169
+CS 4183	Video Game Design	Shannon Rowland, Jonathon	A677502	jsrowland@okstate.edu	227 Airport Ave.Oklahoma City, OK 73103
+CS 4153	Mobile Applications Development	Noemi Combs, Jaycie	A213172	jncombs@okstate.edu	8878 Walnutwood DriveHarrah, OK 73045
+MATH 3013	Linear Algebra (A)	McGraw, Destiny	A550996	dmcgraw@okstate.edu	7762 Harvard StreetOklahoma City, OK 73135
+CS 3570	Special Problems in Computer Science	Rahul Chamberlain, Christian	A985893	crchamberlain@okstate.edu	236 Canal StreetOklahoma City, OK 73159
+CS 4983	Senior Capstone Project	Nugent, Connor	A846902	cnugent@okstate.edu	81 Ashley RoadOklahoma City, OK 73110
+CS 3363	Organization of Programming Languages	Dejuan Ivy, Jameson	A451207	jdivy@okstate.edu	14 W. Arnold CourtOklahoma City, OK 73116
+CS 4323	Design and Implementation of Operating Systems I	Mena, Emily	A283341	emena@okstate.edu	7906 Woodside St.Oklahoma City, OK 73119
+CS 3353	Data Structures and Algorithm Analysis I	Sierra, Sabina	A618355	ssierra@okstate.edu	8191 Durham DriveOklahoma City, OK 73115
+CS 4273	Software Engineering	Gunner Stoll, Seth	A871523	sgstoll@okstate.edu	9931 Garden Ave.Oklahoma City, OK 73145
+CS 4570	Special Topics in Computing	Rust, Jadah	A265855	jrust@okstate.edu	33 Wakehurst LaneOklahoma City, OK 73162
+CS 4743	Extended Reality	Sander, Milton	A471189	msander@okstate.edu	342 County Ave.Oklahoma City, OK 73120
+CS 3513	Numerical Methods for Digital Computers	Kiya Robb, Katelynn	A302128	kkrobb@okstate.edu	17 Golf StreetOklahoma City, OK 73117
+CS 4783	Machine Learning	Tess Tafoya, Yvette	A581670	yttafoya@okstate.edu	842 Cherry St.Oklahoma City, OK 73106
+CS 4743	Extended Reality	Raul Lindberg, Benjamin	A239072	brlindberg@okstate.edu	71 Lakeshore StreetEdmond, OK 73012
+CS 4883	Social Issues in Computing	Devontae Marcum, Estevan	A652227	edmarcum@okstate.edu	601 Ashley Ave.Oklahoma City, OK 73151
+CS 3030	Industrial Practice in Computer Science	Nehemiah Vaught, Harley	A395426	hnvaught@okstate.edu	643 River StreetBethany, OK 73008
+CS 3613	Theoretical Foundations of Computing	Mercer, Obed	A548777	omercer@okstate.edu	9459 Evergreen St.Oklahoma City, OK 73129
+CS 4153	Mobile Applications Development	Cochran, Joanna	A763014	jcochran@okstate.edu	8 White Ave.Choctaw, OK 73020
+MATH 3013	Linear Algebra (A)	Logan Polanco, Henry	A106675	hlpolanco@okstate.edu	9761 Lakeshore CourtOklahoma City, OK 73108
+CS 4173	Video Game Development	Aliya Bynum, Lyndsey	A526587	labynum@okstate.edu	7964 Harrison StreetOklahoma City, OK 73104
+CS 4273	Software Engineering	Khalid Marrero, Ross	A942962	rkmarrero@okstate.edu	7562 Hilldale DriveOklahoma City, OK 73127
+CS 4883	Social Issues in Computing	Chassidy Holton, Lara	A912871	lcholton@okstate.edu	7747 Wrangler StreetOklahoma City, OK 73149
+CS 4743	Extended Reality	Piper Wiley, Makaylah	A429059	mpwiley@okstate.edu	329 Delaware CourtOklahoma City, OK 73141
+CS 4513	Introduction to Numerical Analysis	Vickers, Jocelyne	A514642	jvickers@okstate.edu	682 Cherry RoadOklahoma City, OK 73112
+CS 4243	Introduction to Computer Security	Thomas Hardy, Braxton	A454692	bthardy@okstate.edu	25 Saxton St.Oklahoma City, OK 73105
+CS 3613	Theoretical Foundations of Computing	Pitts, Callie	A765203	cpitts@okstate.edu	592 Carpenter StreetOklahoma City, OK 73150
+CS 4523	Cloud Computing and Distributed Systems	Reynolds, Miya	A156297	mreynolds@okstate.edu	101 Courtland Ave.Oklahoma City, OK 73109
+CS 4323	Design and Implementation of Operating Systems I	Augustine Person, Austen	A633737	aaperson@okstate.edu	7624 Fremont RoadOklahoma City, OK 73132
+CS 3030	Industrial Practice in Computer Science	Barry Kruger, Marvin	A918790	mbkruger@okstate.edu	40 Rockaway Ave.Oklahoma City, OK 73134
+CS 4523	Cloud Computing and Distributed Systems	Janell Hutchison, Paulina	A437795	pjhutchison@okstate.edu	27 Sugar CourtOklahoma City, OK 73142
+CS 4243	Introduction to Computer Security	Kiarra Covington, Libby	A871785	lkcovington@okstate.edu	8301 Fairway Dr.Edmond, OK 73025
+CS 3570	Special Problems in Computer Science	Tayler Salcido, Kaylen	A572326	ktsalcido@okstate.edu	540 Madison StreetEdmond, OK 73034
+CS 4283	Computer Networks	Binder, Yesenia	A196642	ybinder@okstate.edu	9474 West Heritage Rd.Oklahoma City, OK 73139
+CS 4243	Introduction to Computer Security	Gordon Carbajal, Miguelangel	A279213	mgcarbajal@okstate.edu	264 Gulf DriveJones, OK 73049
+CS 4513	Introduction to Numerical Analysis	Chaz Bandy, Cristofer	A573535	ccbandy@okstate.edu	45 Prospect Dr.Spencer, OK 73084
+CS 4153	Mobile Applications Development	Yehuda Runyon, Johnathon	A251263	jyrunyon@okstate.edu	273 Homewood Ave.Oklahoma City, OK 73131
+CS 3653	Discrete Mathematics for Computer Science	Janie Paredes, Kalli	A533722	kjparedes@okstate.edu	9084 Manchester AvenueOklahoma City, OK 73121
+CS 4183	Video Game Design	Quarles, Joselin	A809445	jquarles@okstate.edu	43 North Valley View CourtOklahoma City, OK 73114
+CS 2433	C/C++ Programming	Switzer, Rachel	A665533	rswitzer@okstate.edu	9027 West Fairview DriveArcadia, OK 73007
+CS 4523	Cloud Computing and Distributed Systems	Nikhil Sadler, Marquis	A778766	mnsadler@okstate.edu	655 South Homestead St.Oklahoma City, OK 73111
+CS 4570	Special Topics in Computing	Federico Mims, Vincenzo	A517984	vfmims@okstate.edu	58 North Elm AvenueOklahoma City, OK 73141
+CS 4173	Video Game Development	Brigid Shumaker, Jocelyn	A143573	jbshumaker@okstate.edu	905 Del Monte Rd.Oklahoma City, OK 73131
+CS 4743	Extended Reality	Earl, Leanna	A606402	learl@okstate.edu	95 Fairground Dr.Oklahoma City, OK 73130
+CS 3030	Industrial Practice in Computer Science	Boswell, Jesus	A659311	jboswell@okstate.edu	530 Berkshire Ave.Oklahoma City, OK 73150
+MATH 3013	Linear Algebra (A)	Humphrey, Christie	A333593	chumphrey@okstate.edu	110 Sleepy Hollow Ave.Edmond, OK 73012
+CS 4523	Cloud Computing and Distributed Systems	Thatcher, Gabriel	A128150	gthatcher@okstate.edu	4 Holly Dr.Oklahoma City, OK 73173
+MATH 2163	Calculus III	Rock, Karina	A734702	krock@okstate.edu	410 Sutor St.Oklahoma City, OK 73129
+CS 4993	Senior Honors Project	Macey Dudley, Susan	A263106	smdudley@okstate.edu	9485 Piper Dr.Choctaw, OK 73020
+CS 3353	Data Structures and Algorithm Analysis I	Jadon Navarrete, Andy	A852471	ajnavarrete@okstate.edu	415 E. Swanson Rd.Oklahoma City, OK 73134
+CS 4143	Computer Graphics	Mondragon, Tori	A758417	tmondragon@okstate.edu	548 Temple DriveOklahoma City, OK 73117
+MATH 3013	Linear Algebra (A)	Fry, Armani	A686711	afry@okstate.edu	286 Joy Ridge St.Oklahoma City, OK 73179
+CS 3513	Numerical Methods for Digital Computers	Barron, Daniel	A760940	dbarron@okstate.edu	192 Golf StreetOklahoma City, OK 73145
+CS 4153	Mobile Applications Development	Melanie Starr, Jaci	A329463	jmstarr@okstate.edu	473 Green StreetOklahoma City, OK 73169
+CS 4243	Introduction to Computer Security	Julien Haugen, Galen	A336016	gjhaugen@okstate.edu	14 Goldfield Dr.Edmond, OK 73013
+CS 2433	C/C++ Programming	Jefferson Guerrero, Donnie	A722812	djguerrero@okstate.edu	466 Euclid St.Luther, OK 73054
+CS 4743	Extended Reality	Fuentes, Chad	A665317	cfuentes@okstate.edu	9029 Marshall St.Spencer, OK 73084
+CS 4373	Agile Software Development	Rourke, Jennah	A861994	jrourke@okstate.edu	18 Wayne StreetOklahoma City, OK 73142
+CS 4570	Special Topics in Computing	Milner, Skye	A133484	smilner@okstate.edu	291 La Sierra Dr.Oklahoma City, OK 73149
+CS 3653	Discrete Mathematics for Computer Science	Presley Glick, Dominique	A352334	dpglick@okstate.edu	8249 North New Saddle AvenueOklahoma City, OK 73111
+CS 4883	Social Issues in Computing	Crouse, Broderick	A131593	bcrouse@okstate.edu	7805 Canterbury St.Arcadia, OK 73007
+CS 4243	Introduction to Computer Security	Phillip Gibbons, Kasey	A713242	kpgibbons@okstate.edu	9826 East School StreetEdmond, OK 73025
+CS 4273	Software Engineering	Gaytan, Gilbert	A651008	ggaytan@okstate.edu	4 Broad AvenueOklahoma City, OK 73118
+CS 4570	Special Topics in Computing	Becerra, Madeline	A122866	mbecerra@okstate.edu	185 Nicolls Ave.Oklahoma City, OK 73132
+CS 4623	Introduction to Cyber Physical Systems	Jennah Halverson, Lily	A953381	ljhalverson@okstate.edu	72 Lake DriveEdmond, OK 73034
+CS 3613	Theoretical Foundations of Computing	Gisselle Brinson, Kailee	A411903	kgbrinson@okstate.edu	81 North Bay Dr.Jones, OK 73049
+CS 3570	Special Problems in Computer Science	Alisa Gooch, Julisa	A788234	jagooch@okstate.edu	9163 Sulphur Springs St.Oklahoma City, OK 73110
+CS 4743	Extended Reality	Marsh, Humberto	A507431	hmarsh@okstate.edu	9600 Proctor RoadOklahoma City, OK 73122
+CS 3653	Discrete Mathematics for Computer Science	Szymanski, Jabari	A553340	jszymanski@okstate.edu	47 Old Windsor DriveOklahoma City, OK 73128
+MATH 2163	Calculus III	Floyd McIntyre, Austyn	A122674	afmcintyre@okstate.edu	300 West Taylor LaneOklahoma City, OK 73127
+CS 4623	Introduction to Cyber Physical Systems	Kavon Goldsmith, Jonathon	A209315	jkgoldsmith@okstate.edu	47 Smith Ave.Oklahoma City, OK 73162
+CS 2433	C/C++ Programming	Strickland, Odalys	A190789	ostrickland@okstate.edu	7063 SW. Fairfield St.Oklahoma City, OK 73151
+CS 4883	Social Issues in Computing	Beckwith, Yazmine	A858127	ybeckwith@okstate.edu	174 Market DriveOklahoma City, OK 73135
+MATH 2163	Calculus III	Angelica Shepard, Farrah	A270075	fashepard@okstate.edu	238 Gregory Rd.Bethany, OK 73008
+CS 4783	Machine Learning	Dejah Oh, Fallon	A723455	fdoh@okstate.edu	272 Sheffield StreetHarrah, OK 73045
+CS 4743	Extended Reality	Bello, Caleb	A522606	cbello@okstate.edu	52 N. Oak Meadow St.Oklahoma City, OK 73159
+CS 4883	Social Issues in Computing	Brant Perea, Dominic	A578118	dbperea@okstate.edu	7499 South Gulf Ave.Oklahoma City, OK 73107
+CS 3363	Organization of Programming Languages	Caleigh Farr, Reina	A294859	rcfarr@okstate.edu	426 Glendale St.Oklahoma City, OK 73120
+CS 4783	Machine Learning	Hannah Isbell, Savana	A548808	shisbell@okstate.edu	9487 Grant RoadOklahoma City, OK 73109
+CS 4433	Introduction to Database Systems	Mariela Landers, Amya	A711011	amlanders@okstate.edu	7524 High Ave.Oklahoma City, OK 73103
+MATH 2163	Calculus III	Bilal Pemberton, Keshawn	A827895	kbpemberton@okstate.edu	1 Trenton Rd.Oklahoma City, OK 73105
+CS 3030	Industrial Practice in Computer Science	Daisy Shank, Courtney	A791398	cdshank@okstate.edu	933 Bedford StreetEdmond, OK 73003
+CS 4143	Computer Graphics	Dent, Sequoia	A656490	sdent@okstate.edu	9390 Main Rd.Oklahoma City, OK 73104
+CS 3353	Data Structures and Algorithm Analysis I	Nakia Williamson, Makenzi	A241278	mnwilliamson@okstate.edu	8184 Thorne StreetOklahoma City, OK 73102
+CS 4373	Agile Software Development	Kalvin Lilly, Kian	A852955	kklilly@okstate.edu	136 Lake View St.Oklahoma City, OK 73108
+CS 4183	Video Game Design	Fallon, Tai	A895266	tfallon@okstate.edu	35 Henry Dr.Oklahoma City, OK 73106
+CS 4283	Computer Networks	DeJesus, Julian	A833445	jdejesus@okstate.edu	1 Wild Horse StreetOklahoma City, OK 73121
+CS 4523	Cloud Computing and Distributed Systems	Bruno Wagner, Arnold	A599030	abwagner@okstate.edu	937 Ramblewood LaneOklahoma City, OK 73114
+CS 4513	Introduction to Numerical Analysis	Abigail Turpin, Lynn	A864387	laturpin@okstate.edu	9124 Queen St.Oklahoma City, OK 73139
+CS 3443	Computer Systems	Hector Clifton, Caelan	A610386	chclifton@okstate.edu	80 Redwood Ave.Oklahoma City, OK 73115
+CS 3570	Special Problems in Computer Science	Bradly Acosta, Jonatan	A619105	jbacosta@okstate.edu	874 Laurel StreetOklahoma City, OK 73116
+CS 4513	Introduction to Numerical Analysis	Chasity Smallwood, Chastity	A913274	ccsmallwood@okstate.edu	9054 SE. Coffee StreetOklahoma City, OK 73112
+CS 4513	Introduction to Numerical Analysis	Amaiya Bohn, Aiyana	A650882	aabohn@okstate.edu	901 Division Dr.Oklahoma City, OK 73118
+MATH 2163	Calculus III	Anisha Reich, Allysa	A321364	aareich@okstate.edu	18 Nicolls St.Oklahoma City, OK 73112
+CS 4183	Video Game Design	Alfred Beal, Zachariah	A711355	zabeal@okstate.edu	36 Lilac Ave.Oklahoma City, OK 73115
+CS 4153	Mobile Applications Development	Rhiannon Ayers, Jesse	A528872	jrayers@okstate.edu	337 Princeton Ave.Oklahoma City, OK 73159
+CS 4273	Software Engineering	Pritchett, Ryland	A357572	rpritchett@okstate.edu	691 Laurel StreetEdmond, OK 73034
+CS 4373	Agile Software Development	Sanders, Tyra	A335703	tsanders@okstate.edu	195 Heather DriveChoctaw, OK 73020
+CS 4623	Introduction to Cyber Physical Systems	Katelynn Hills, Wendy	A297850	wkhills@okstate.edu	8705 Lilac Ave.Oklahoma City, OK 73127
+CS 4323	Design and Implementation of Operating Systems I	Polanco, Malcolm	A578231	mpolanco@okstate.edu	59 Hawthorne St.Edmond, OK 73012
+CS 4523	Cloud Computing and Distributed Systems	McCarter, Benton	A849489	bmccarter@okstate.edu	168 Evergreen Dr.Oklahoma City, OK 73114
+CS 3513	Numerical Methods for Digital Computers	Swope, Michael	A985472	mswope@okstate.edu	9 Hanover AvenueOklahoma City, OK 73162
+CS 4523	Cloud Computing and Distributed Systems	Byrd, Paris	A798405	pbyrd@okstate.edu	9101 Center St.Oklahoma City, OK 73130
+MATH 2163	Calculus III	Jensen, Kyndal	A672960	kjensen@okstate.edu	6 Fieldstone AvenueOklahoma City, OK 73121
+CS 4523	Cloud Computing and Distributed Systems	Rosa Woodall, Nikita	A504337	nrwoodall@okstate.edu	825 Shore St.Edmond, OK 73003
+CS 3030	Industrial Practice in Computer Science	Darin Barr, Jamel	A144120	jdbarr@okstate.edu	290 Summit Dr.Jones, OK 73049
+CS 4783	Machine Learning	Ethan Velasco, Tristian	A698611	tevelasco@okstate.edu	1 Galvin St.Bethany, OK 73008
+CS 4153	Mobile Applications Development	Singletary, Georgia	A397859	gsingletary@okstate.edu	8711 Belmont RoadOklahoma City, OK 73129
+CS 3030	Industrial Practice in Computer Science	Handy, Chelsea	A687220	chandy@okstate.edu	288 Shipley St.Spencer, OK 73084
+CS 4883	Social Issues in Computing	Cottrell, Annmarie	A435419	acottrell@okstate.edu	565 S. Oakwood Ave.Oklahoma City, OK 73102
+MATH 3013	Linear Algebra (A)	Paloma Bryson, Abrianna	A290943	apbryson@okstate.edu	2 Manchester StreetOklahoma City, OK 73117
+CS 4143	Computer Graphics	Brittain, Corey	A777630	cbrittain@okstate.edu	52 York DriveOklahoma City, OK 73131
+CS 4183	Video Game Design	Hays, Treyvon	A130998	thays@okstate.edu	508 King Dr.Oklahoma City, OK 73141
+CS 4523	Cloud Computing and Distributed Systems	Christion Tolliver, Tyreese	A270099	tctolliver@okstate.edu	20 Studebaker StreetOklahoma City, OK 73116
+CS 3570	Special Problems in Computer Science	Candice Locke, Nicolette	A412869	nclocke@okstate.edu	446 North Thatcher CourtOklahoma City, OK 73106
+CS 4983	Senior Capstone Project	Caruso, Wyatt	A746728	wcaruso@okstate.edu	283 Howard St.Oklahoma City, OK 73122
+CS 4743	Extended Reality	Brett Avery, Slade	A213403	sbavery@okstate.edu	83 Country Club StreetEdmond, OK 73013
+CS 4523	Cloud Computing and Distributed Systems	Shaylee Gantt, Kailee	A789101	ksgantt@okstate.edu	9126 Evergreen Ave.Luther, OK 73054
+CS 4173	Video Game Development	Johnnie Hawthorne, Tai	A907144	tjhawthorne@okstate.edu	33 Vale CourtOklahoma City, OK 73179
+CS 3613	Theoretical Foundations of Computing	Thai, Zaire	A275529	zthai@okstate.edu	95 Harvard St.Oklahoma City, OK 73103
+CS 4570	Special Topics in Computing	Skaggs, Raheem	A696689	rskaggs@okstate.edu	9053 S. Trout St.Oklahoma City, OK 73142
+CS 2433	C/C++ Programming	Jeter, Barrett	A267242	bjeter@okstate.edu	9249 Meadowbrook LaneOklahoma City, OK 73173
+CS 4373	Agile Software Development	Alec Lake, Emmanuel	A900970	ealake@okstate.edu	9160 Evergreen Ave.Edmond, OK 73025
+CS 3363	Organization of Programming Languages	Valle, Treyton	A253264	tvalle@okstate.edu	36 Brookside CircleOklahoma City, OK 73150
+CS 4143	Computer Graphics	Harry, Jadyn	A203363	jharry@okstate.edu	7827 Williams DriveOklahoma City, OK 73149
+CS 3570	Special Problems in Computer Science	Murrell, Arden	A314656	amurrell@okstate.edu	617 Heritage Ave.Oklahoma City, OK 73107
+CS 4153	Mobile Applications Development	Carmona, Long	A430766	lcarmona@okstate.edu	792 Arlington Ave.Harrah, OK 73045
+CS 4273	Software Engineering	Pagano, Zion	A634051	zpagano@okstate.edu	7752 Grant Rd.Oklahoma City, OK 73128
+CS 3030	Industrial Practice in Computer Science	Yamileth Yost, Keira	A187603	kyyost@okstate.edu	828 Overlook DriveOklahoma City, OK 73109
+CS 4513	Introduction to Numerical Analysis	Charity Reinhardt, Denisse	A266581	dcreinhardt@okstate.edu	7241 San Juan Rd.Oklahoma City, OK 73108
+CS 2433	C/C++ Programming	Deloach, Jerome	A173879	jdeloach@okstate.edu	869 Hickory Dr.Oklahoma City, OK 73139
+CS 2433	C/C++ Programming	Olvera, Michelle	A269865	molvera@okstate.edu	202 Ohio StreetOklahoma City, OK 73120
+MATH 3013	Linear Algebra (A)	Nielson, Doris	A905277	dnielson@okstate.edu	68 Heritage Rd.Oklahoma City, OK 73169
+CS 4883	Social Issues in Computing	Devante Collins, Sydney	A766960	sdcollins@okstate.edu	7620 Gates St.Oklahoma City, OK 73132
+CS 4283	Computer Networks	Coburn, Ivory	A216289	icoburn@okstate.edu	74 Brandywine St.Oklahoma City, OK 73110
+CS 4183	Video Game Design	Victor, Janine	A211184	jvictor@okstate.edu	7537 North Cedarwood St.Oklahoma City, OK 73134
+CS 3653	Discrete Mathematics for Computer Science	Clement, Lynette	A413273	lclement@okstate.edu	7947 West Hawthorne StreetOklahoma City, OK 73119
+CS 3613	Theoretical Foundations of Computing	Whitley Stafford, Briza	A553241	bwstafford@okstate.edu	9593 East 4th DriveOklahoma City, OK 73151
+CS 4323	Design and Implementation of Operating Systems I	Kurtis Durbin, Kevin	A462469	kkdurbin@okstate.edu	217 West Marshall DriveArcadia, OK 73007
+CS 4183	Video Game Design	Hawks, Brooklynn	A107126	bhawks@okstate.edu	7220 Lawrence Dr.Oklahoma City, OK 73135
+CS 4983	Senior Capstone Project	Salmon, Jelani	A309962	jsalmon@okstate.edu	419 Alton Dr.Oklahoma City, OK 73105
+CS 3443	Computer Systems	Adelaide Reinhart, Amaris	A290628	aareinhart@okstate.edu	70 Lilac DriveOklahoma City, OK 73145
+CS 4513	Introduction to Numerical Analysis	Strange, Konner	A145397	kstrange@okstate.edu	9756 W. Marsh St.Oklahoma City, OK 73104
+CS 4243	Introduction to Computer Security	Ricci, Rey	A474591	rricci@okstate.edu	7121 Pin Oak Dr.Oklahoma City, OK 73111
+CS 4570	Special Topics in Computing	China Gamez, Emerald	A808163	ecgamez@okstate.edu	8147 East Dr.Oklahoma City, OK 73134
+CS 3513	Numerical Methods for Digital Computers	Leann Snider, Andrea	A280232	alsnider@okstate.edu	934 Williams Dr.Oklahoma City, OK 73122
+CS 3570	Special Problems in Computer Science	Brunner, Nehemiah	A587782	nbrunner@okstate.edu	70 Court Ave.Oklahoma City, OK 73141
+CS 4273	Software Engineering	Byrne, Jaylon	A916196	jbyrne@okstate.edu	8779 Green RoadOklahoma City, OK 73128
+CS 4793	Artificial Intelligence I	Remington Hedges, Jett	A921990	jrhedges@okstate.edu	9670 Helen StreetOklahoma City, OK 73104
+CS 4623	Introduction to Cyber Physical Systems	Lynn, Quinn	A769383	qlynn@okstate.edu	993 Ashley Dr.Harrah, OK 73045
+MATH 2163	Calculus III	Lance Ledbetter, Jonah	A490864	jlledbetter@okstate.edu	9602 Vine StreetOklahoma City, OK 73119
+CS 4183	Video Game Design	Jonathon Trotter, Dillan	A789049	djtrotter@okstate.edu	593 Philmont Ave.Oklahoma City, OK 73173
+MATH 2163	Calculus III	Maryam Rader, Cassidy	A357177	cmrader@okstate.edu	9 King RoadOklahoma City, OK 73145
+CS 4433	Introduction to Database Systems	Amani Cantrell, Riya	A235180	racantrell@okstate.edu	519 Ann St.Oklahoma City, OK 73102
+CS 4153	Mobile Applications Development	Zoe Canfield, Kiersten	A348452	kzcanfield@okstate.edu	24 Mayfair Dr.Oklahoma City, OK 73149
+CS 4173	Video Game Development	Cannon, Deondre	A336839	dcannon@okstate.edu	33 Pierce Ave.Oklahoma City, OK 73107
+CS 3570	Special Problems in Computer Science	Fiona Dion, Nikole	A296145	nfdion@okstate.edu	257 Magnolia Dr.Oklahoma City, OK 73162
+CS 4513	Introduction to Numerical Analysis	Cannon Longo, Steve	A370441	sclongo@okstate.edu	8741 Olive CourtOklahoma City, OK 73135
+CS 4243	Introduction to Computer Security	Isaias Crabtree, Benton	A371729	bicrabtree@okstate.edu	336 Glendale St.Edmond, OK 73013
+CS 4743	Extended Reality	Aysha Neil, Arlene	A479242	aaneil@okstate.edu	9430 La Sierra DriveOklahoma City, OK 73139
+CS 4273	Software Engineering	Brandi Zhou, Yulisa	A129170	ybzhou@okstate.edu	91 Marlborough Ave.Oklahoma City, OK 73117
+CS 4243	Introduction to Computer Security	Iyana Moseley, Melissa	A243023	mimoseley@okstate.edu	50 Lower River Ave.Edmond, OK 73025
+CS 4883	Social Issues in Computing	Kasey Bourgeois, Pearl	A373205	pkbourgeois@okstate.edu	795 North Overlook St.Oklahoma City, OK 73108
+CS 4373	Agile Software Development	Isaiah Benson, Sergio	A486951	sibenson@okstate.edu	84 Newcastle LaneOklahoma City, OK 73109
+CS 4983	Senior Capstone Project	Bess, Marcella	A409785	mbess@okstate.edu	28 Halifax DriveChoctaw, OK 73020
+CS 4283	Computer Networks	Ogden, Ramon	A399195	rogden@okstate.edu	20 Windfall Dr.Luther, OK 73054
+CS 4883	Social Issues in Computing	Lamont Brackett, Tracy	A496270	tlbrackett@okstate.edu	48 Corona St.Oklahoma City, OK 73120
+CS 4143	Computer Graphics	Doll, Henry	A466952	hdoll@okstate.edu	9 Sherman LaneOklahoma City, OK 73131
+MATH 2163	Calculus III	Hendricks, Kelli	A785381	khendricks@okstate.edu	841 Hawthorne St.Oklahoma City, OK 73112
+CS 3513	Numerical Methods for Digital Computers	Souza, Wayne	A437818	wsouza@okstate.edu	833 Glen Creek St.Oklahoma City, OK 73150
+CS 4243	Introduction to Computer Security	Wimberly, Keara	A395507	kwimberly@okstate.edu	7087 Chapel Dr.Arcadia, OK 73007
+CS 4513	Introduction to Numerical Analysis	Jaiden Kuntz, Mattie	A695330	mjkuntz@okstate.edu	46 Oklahoma Rd.Oklahoma City, OK 73132
+CS 4283	Computer Networks	Abner Armenta, Kristian	A470004	kaarmenta@okstate.edu	324 High Ridge LaneOklahoma City, OK 73114
+CS 3570	Special Problems in Computer Science	Kohler, Katlyn	A585343	kkohler@okstate.edu	7143 Kent Ave.Oklahoma City, OK 73103
+CS 3653	Discrete Mathematics for Computer Science	Finnegan, Aden	A489616	afinnegan@okstate.edu	7761 SE. Ridge StreetOklahoma City, OK 73118
+CS 4273	Software Engineering	Girard, Morgan	A823372	mgirard@okstate.edu	887 Glenlake LaneEdmond, OK 73003
+MATH 3013	Linear Algebra (A)	Aisha Vinson, Kaleigh	A569349	kavinson@okstate.edu	97 West Third DriveOklahoma City, OK 73110
+CS 4283	Computer Networks	Priscila Parrott, Ayesha	A846393	apparrott@okstate.edu	46 West Marconi St.Edmond, OK 73034
+MATH 2163	Calculus III	Maciel, Brady	A130402	bmaciel@okstate.edu	90 N. Princess CourtEdmond, OK 73012
+MATH 2163	Calculus III	Sherwood, Jayden	A685653	jsherwood@okstate.edu	250 High Point St.Spencer, OK 73084
+CS 4983	Senior Capstone Project	Barajas, Jaylen	A110309	jbarajas@okstate.edu	9439 North Coffee St.Oklahoma City, OK 73111
+CS 4793	Artificial Intelligence I	Carrie Guest, Annabella	A694926	acguest@okstate.edu	8549 Military Dr.Oklahoma City, OK 73142
+MATH 2163	Calculus III	Kirk Alarcon, Reed	A600818	rkalarcon@okstate.edu	732 N. Rockland StreetOklahoma City, OK 73159
+MATH 3013	Linear Algebra (A)	Nikolas Henry, Willie	A719368	wnhenry@okstate.edu	8803 Dunbar StreetJones, OK 73049
+CS 4183	Video Game Design	Diamond, Katlin	A610202	kdiamond@okstate.edu	7525 S. Kent StreetOklahoma City, OK 73179
+CS 4283	Computer Networks	Keefe, Wade	A588108	wkeefe@okstate.edu	410 Brook St.Oklahoma City, OK 73106
+CS 4323	Design and Implementation of Operating Systems I	Robins, Lianna	A631805	lrobins@okstate.edu	9528 Mechanic St.Oklahoma City, OK 73105
+CS 4143	Computer Graphics	Hiller, Ira	A458296	ihiller@okstate.edu	281 Magnolia LaneOklahoma City, OK 73121
+CS 4373	Agile Software Development	Lucille Burt, Lisette	A871920	llburt@okstate.edu	4 East Canal DriveOklahoma City, OK 73151
+CS 4513	Introduction to Numerical Analysis	Terence Mcmillen, Trever	A311889	ttmcmillen@okstate.edu	7342 Corona St.Oklahoma City, OK 73130
+CS 4623	Introduction to Cyber Physical Systems	Ledford, Desean	A922596	dledford@okstate.edu	95 Brookside St.Oklahoma City, OK 73129
+CS 3030	Industrial Practice in Computer Science	Jolene Knutson, Meghan	A550839	mjknutson@okstate.edu	9635 Sleepy Hollow Ave.Oklahoma City, OK 73115
+CS 4373	Agile Software Development	Fierro, Desmond	A446156	dfierro@okstate.edu	422 North Del Monte St.Bethany, OK 73008
+CS 3030	Industrial Practice in Computer Science	Arnett, Kolton	A684265	karnett@okstate.edu	781 Tarkiln Hill Ave.Oklahoma City, OK 73169
+CS 4173	Video Game Development	Shockley, Tea	A370594	tshockley@okstate.edu	9102 N. Kingston St.Oklahoma City, OK 73116
+CS 4513	Introduction to Numerical Analysis	Fair, Everardo	A273302	efair@okstate.edu	8767 Bradford Ave.Oklahoma City, OK 73127
+CS 3353	Data Structures and Algorithm Analysis I	Girard, Guadalupe	A141556	ggirard@okstate.edu	7 Arch St.Oklahoma City, OK 73110
+CS 4143	Computer Graphics	Stephany Lin, Karime	A654764	kslin@okstate.edu	319 West Lancaster StreetOklahoma City, OK 73116
+CS 4983	Senior Capstone Project	Marguerite Lo, Chloe	A115519	cmlo@okstate.edu	8402 Augusta St.Oklahoma City, OK 73111
+CS 3363	Organization of Programming Languages	Brien, Ivan	A577272	ibrien@okstate.edu	632 Wellington CourtOklahoma City, OK 73141
+CS 3513	Numerical Methods for Digital Computers	Maddison Greenfield, Jaela	A190917	jmgreenfield@okstate.edu	7443 S. Marconi LaneEdmond, OK 73003
+CS 4273	Software Engineering	Moya, Kallie	A263911	kmoya@okstate.edu	7 Westport StreetOklahoma City, OK 73112
+CS 4793	Artificial Intelligence I	Lauer, Nevin	A865461	nlauer@okstate.edu	8713 Garfield DriveOklahoma City, OK 73120
+CS 3353	Data Structures and Algorithm Analysis I	Fonseca, Deshaun	A965619	dfonseca@okstate.edu	9098 Poor House Dr.Oklahoma City, OK 73149
+CS 3653	Discrete Mathematics for Computer Science	Hunter Horne, Lillie	A348372	lhhorne@okstate.edu	63 Saxton CourtSpencer, OK 73084
+CS 4523	Cloud Computing and Distributed Systems	Aragon, Lela	A965617	laragon@okstate.edu	28 E. Greenrose St.Harrah, OK 73045
+CS 4623	Introduction to Cyber Physical Systems	Goddard, Elyssa	A235825	egoddard@okstate.edu	428 Wagon RoadOklahoma City, OK 73150
+CS 4570	Special Topics in Computing	Trimble, Tyreek	A560771	ttrimble@okstate.edu	9 East Delaware St.Oklahoma City, OK 73104
+CS 4570	Special Topics in Computing	Hightower, Zackary	A871521	zhightower@okstate.edu	984 West West StreetOklahoma City, OK 73130
+CS 4373	Agile Software Development	Tania Fonseca, Shira	A845241	stfonseca@okstate.edu	6 Gonzales Ave.Edmond, OK 73012
+CS 4623	Introduction to Cyber Physical Systems	Tanner Findley, Mahogany	A997895	mtfindley@okstate.edu	30 Roberts St.Oklahoma City, OK 73131
+CS 3613	Theoretical Foundations of Computing	Riggins, Quentin	A620364	qriggins@okstate.edu	868 Holly StreetBethany, OK 73008
+CS 4783	Machine Learning	Gorman, Brianna	A330203	bgorman@okstate.edu	744 Fairway Ave.Oklahoma City, OK 73132
+CS 3570	Special Problems in Computer Science	Carlos Jaeger, Dexter	A642755	dcjaeger@okstate.edu	7780 Lake View Ave.Oklahoma City, OK 73109
+CS 4373	Agile Software Development	Willow Barnhart, Emerson	A962831	ewbarnhart@okstate.edu	24 Old York St.Oklahoma City, OK 73114
+CS 4513	Introduction to Numerical Analysis	Gough, Tionne	A448017	tgough@okstate.edu	301 Spruce LaneOklahoma City, OK 73103
+CS 4983	Senior Capstone Project	Hutson, Amari	A384318	ahutson@okstate.edu	375 E. Water St.Oklahoma City, OK 73162
+CS 4513	Introduction to Numerical Analysis	Sawyer Eggleston, Osvaldo	A512314	oseggleston@okstate.edu	224 Green Lake Dr.Choctaw, OK 73020
+CS 4783	Machine Learning	Strand, Denise	A118464	dstrand@okstate.edu	25 Hill StreetOklahoma City, OK 73105
+CS 4273	Software Engineering	Haase, Amberly	A941842	ahaase@okstate.edu	7950 Lake View St.Oklahoma City, OK 73135
+CS 4143	Computer Graphics	Bales, Morgan	A743777	mbales@okstate.edu	785 West Lafayette Ave.Oklahoma City, OK 73159
+CS 3613	Theoretical Foundations of Computing	Livingston, Katie	A547381	klivingston@okstate.edu	95 Catherine Ave.Edmond, OK 73013
+CS 3570	Special Problems in Computer Science	Giles, Mireya	A328666	mgiles@okstate.edu	56 Philmont StreetOklahoma City, OK 73151
+CS 3363	Organization of Programming Languages	Alicia Roach, Yareli	A842905	yaroach@okstate.edu	9173 Edgemont St.Oklahoma City, OK 73107
+CS 3513	Numerical Methods for Digital Computers	Priya Toney, Kathryn	A712679	kptoney@okstate.edu	20 N. Brown Dr.Oklahoma City, OK 73128
+CS 3443	Computer Systems	Troutman, Camryn	A808862	ctroutman@okstate.edu	532 Crescent Ave.Oklahoma City, OK 73115
+CS 4623	Introduction to Cyber Physical Systems	Zack Gallo, Barry	A206536	bzgallo@okstate.edu	8190 Ramblewood Ave.Edmond, OK 73034
+CS 4623	Introduction to Cyber Physical Systems	Stock, Justina	A409482	jstock@okstate.edu	946 Wayne St.Oklahoma City, OK 73145
+CS 4283	Computer Networks	Jesenia Earle, Meagan	A158355	mjearle@okstate.edu	230 Riverview Rd.Oklahoma City, OK 73122
+CS 4173	Video Game Development	Arsenault, Karah	A632269	karsenault@okstate.edu	18 Fairway StreetArcadia, OK 73007
+CS 4243	Introduction to Computer Security	Diamond, Melody	A618216	mdiamond@okstate.edu	7876 Cleveland AvenueOklahoma City, OK 73117
+CS 3443	Computer Systems	Naranjo, Reilly	A572776	rnaranjo@okstate.edu	7142 Lakewood Ave.Oklahoma City, OK 73179
+CS 3030	Industrial Practice in Computer Science	Wong, Rowan	A421317	rwong@okstate.edu	448 Elmwood LaneOklahoma City, OK 73129
+CS 4993	Senior Honors Project	Pate, Dustyn	A545924	dpate@okstate.edu	8615 East State Rd.Oklahoma City, OK 73108
+MATH 2163	Calculus III	Savana Gannon, Nichole	A447863	nsgannon@okstate.edu	300 Tarkiln Hill StreetOklahoma City, OK 73121
+CS 3353	Data Structures and Algorithm Analysis I	Tristan Walsh, Lamar	A504415	ltwalsh@okstate.edu	858 Hickory St.Oklahoma City, OK 73169
+CS 3513	Numerical Methods for Digital Computers	Glasgow, Clark	A132552	cglasgow@okstate.edu	633 East Jennings AvenueOklahoma City, OK 73142
+MATH 3013	Linear Algebra (A)	Tierney Garcia, Dora	A900626	dtgarcia@okstate.edu	43 Manchester St.Oklahoma City, OK 73134
+CS 4373	Agile Software Development	Ragsdale, Jaylynn	A561093	jragsdale@okstate.edu	59 Glen Eagles St.Oklahoma City, OK 73139
+CS 4570	Special Topics in Computing	Cardenas, Abagail	A692880	acardenas@okstate.edu	178C Spruce Ave.Edmond, OK 73025
+CS 4570	Special Topics in Computing	Crowell, Dasia	A132055	dcrowell@okstate.edu	983 Foxrun RoadJones, OK 73049
+CS 3030	Industrial Practice in Computer Science	Moran, Haleigh	A163034	hmoran@okstate.edu	760 Longfellow St.Oklahoma City, OK 73102
+CS 4623	Introduction to Cyber Physical Systems	Ashlynn Crowe, Nadine	A757184	nacrowe@okstate.edu	874 Marshall St.Luther, OK 73054
+CS 3653	Discrete Mathematics for Computer Science	Jadah Stuckey, Annaliese	A542181	ajstuckey@okstate.edu	72 Buckingham StreetOklahoma City, OK 73173
+CS 2433	C/C++ Programming	Laken Guest, Lela	A643100	llguest@okstate.edu	4 Broad Ave.Oklahoma City, OK 73118
+CS 4993	Senior Honors Project	Chow, Marisa	A803651	mchow@okstate.edu	7022 Mechanic Dr.Oklahoma City, OK 73106
+CS 3653	Discrete Mathematics for Computer Science	Jacqueline Muniz, Anya	A736996	ajmuniz@okstate.edu	8482 Holly St.Oklahoma City, OK 73119
+CS 4983	Senior Capstone Project	McGrath, Jazmin	A227421	jmcgrath@okstate.edu	16 Sycamore LaneOklahoma City, OK 73127
+CS 3513	Numerical Methods for Digital Computers	Taft, Jeffrey	A746451	jtaft@okstate.edu	484 Sierra StreetOklahoma City, OK 73159
+CS 3570	Special Problems in Computer Science	Kade Barton, Keshaun	A245507	kkbarton@okstate.edu	7937 Fordham St.Edmond, OK 73003
+CS 3030	Industrial Practice in Computer Science	Joana Hankins, Sherry	A173511	sjhankins@okstate.edu	7351 Country DriveOklahoma City, OK 73118
+CS 4993	Senior Honors Project	Slaughter, Justyn	A489383	jslaughter@okstate.edu	74 Trusel St.Oklahoma City, OK 73145
+CS 4373	Agile Software Development	Cobb, Marian	A601383	mcobb@okstate.edu	27 Fifth Ave.Oklahoma City, OK 73116
+MATH 2163	Calculus III	Mariela Thayer, Niya	A736537	nmthayer@okstate.edu	414 Mechanic Dr.Oklahoma City, OK 73115
+CS 3613	Theoretical Foundations of Computing	Blank, Brittany	A761060	bblank@okstate.edu	8038 Grandrose StreetOklahoma City, OK 73129
+CS 4983	Senior Capstone Project	Zhang, Katerina	A910862	kzhang@okstate.edu	8957 Edgefield StreetEdmond, OK 73034
+CS 4183	Video Game Design	Bello, Tracy	A560461	tbello@okstate.edu	82 South St.Oklahoma City, OK 73102
+CS 4513	Introduction to Numerical Analysis	Teal, Jackson	A817278	jteal@okstate.edu	60 Lafayette Dr.Oklahoma City, OK 73142
+CS 3513	Numerical Methods for Digital Computers	Jamal Gulley, Ashton	A510134	ajgulley@okstate.edu	9442 Lilac St.Oklahoma City, OK 73105
+CS 4433	Introduction to Database Systems	Barry Laird, Cayden	A877850	cblaird@okstate.edu	8 Chestnut Ave.Oklahoma City, OK 73179
+CS 4153	Mobile Applications Development	Olivares, Miles	A302345	molivares@okstate.edu	18 Bayport LaneOklahoma City, OK 73117
+CS 4993	Senior Honors Project	Emerson Dyer, Bowen	A160509	bedyer@okstate.edu	9859 Highland Ave.Oklahoma City, OK 73132
+CS 4373	Agile Software Development	Hanlon, Johnny	A411229	jhanlon@okstate.edu	8987 Golf Ave.Oklahoma City, OK 73128
+CS 4183	Video Game Design	Javen Warren, Fredrick	A977054	fjwarren@okstate.edu	8401 Atlantic Rd.Oklahoma City, OK 73131
+CS 3443	Computer Systems	Baum, Reid	A355593	rbaum@okstate.edu	4 Strawberry LaneEdmond, OK 73025
+CS 4793	Artificial Intelligence I	Leslie, Shyla	A239625	sleslie@okstate.edu	754 Arcadia Dr.Oklahoma City, OK 73108
+CS 4883	Social Issues in Computing	Jakobe Donovan, Chad	A175496	cjdonovan@okstate.edu	7160 John Rd.Oklahoma City, OK 73111
+MATH 2163	Calculus III	Greyson Staley, Dangelo	A716832	dgstaley@okstate.edu	9807 Thompson LaneOklahoma City, OK 73141
+CS 4793	Artificial Intelligence I	Negron, Gregory	A138716	gnegron@okstate.edu	7137 Center StreetOklahoma City, OK 73110
+CS 3363	Organization of Programming Languages	Beasley, Emilee	A542323	ebeasley@okstate.edu	68 Woodsman StreetOklahoma City, OK 73119
+CS 4323	Design and Implementation of Operating Systems I	Judd, Stephon	A715902	sjudd@okstate.edu	343 Pierce Rd.Oklahoma City, OK 73112
+CS 4143	Computer Graphics	Sanford, Haley	A964504	hsanford@okstate.edu	30 Elmwood St.Arcadia, OK 73007
+CS 4793	Artificial Intelligence I	Daquan Bertrand, Devonta	A139919	ddbertrand@okstate.edu	9638 Trout St.Bethany, OK 73008
+CS 4783	Machine Learning	Jaxson Gunn, Randall	A540972	rjgunn@okstate.edu	776 Locust St.Oklahoma City, OK 73149
+CS 3363	Organization of Programming Languages	Serina Horst, Anisa	A995623	ashorst@okstate.edu	650 South St Paul StreetEdmond, OK 73012
+CS 4283	Computer Networks	Tristin Schindler, Octavio	A188873	otschindler@okstate.edu	474 Gates St.Oklahoma City, OK 73134
+CS 4993	Senior Honors Project	Blum, Star	A445505	sblum@okstate.edu	75 Riverview DriveOklahoma City, OK 73114
+CS 4153	Mobile Applications Development	Wheaton, Darby	A664393	dwheaton@okstate.edu	271 Clark DriveOklahoma City, OK 73103
+CS 3570	Special Problems in Computer Science	Wyman, Braydon	A719576	bwyman@okstate.edu	7001 Garfield CourtHarrah, OK 73045
+CS 4183	Video Game Design	Kenan Vann, Rasheed	A526559	rkvann@okstate.edu	10 Hartford LaneOklahoma City, OK 73121
+CS 3513	Numerical Methods for Digital Computers	Maxim Saxton, Ramon	A325883	rmsaxton@okstate.edu	9934 Lakeview Ave.Oklahoma City, OK 73130
+CS 4513	Introduction to Numerical Analysis	Amie Hoffmann, Jacie	A113230	jahoffmann@okstate.edu	9261 Birchpond CourtOklahoma City, OK 73120
+CS 4883	Social Issues in Computing	Denny, Bailey	A502636	bdenny@okstate.edu	990 East Glen Creek St.Oklahoma City, OK 73104
+CS 2433	C/C++ Programming	Bishop, Ariel	A394190	abishop@okstate.edu	9239 Academy Ave.Oklahoma City, OK 73151
+CS 3030	Industrial Practice in Computer Science	Chelsie Gilbertson, Destany	A480582	dcgilbertson@okstate.edu	9441 Morris StreetChoctaw, OK 73020
+CS 2433	C/C++ Programming	Arianna Pinto, Amber	A699044	aapinto@okstate.edu	75 West Woodside DriveOklahoma City, OK 73107
+CS 4153	Mobile Applications Development	Johanna Keith, Tyasia	A408039	tjkeith@okstate.edu	361 Division CourtEdmond, OK 73013
+CS 4173	Video Game Development	Edith Shuler, Noor	A895631	neshuler@okstate.edu	9726 Shadow Brook StreetJones, OK 73049
+CS 4993	Senior Honors Project	Willson, Alexander	A580146	awillson@okstate.edu	434 New St.Oklahoma City, OK 73106
+CS 3353	Data Structures and Algorithm Analysis I	Dashawn Moran, Turner	A662617	tdmoran@okstate.edu	88 Griffin St.Oklahoma City, OK 73139
+CS 3570	Special Problems in Computer Science	Skye Bergman, Emely	A979152	esbergman@okstate.edu	875 South Highland DriveOklahoma City, OK 73169
+CS 4513	Introduction to Numerical Analysis	Morris Swanson, Adolfo	A939446	amswanson@okstate.edu	9491 Beach DriveLuther, OK 73054
+CS 4153	Mobile Applications Development	Maia Corey, Xiomara	A274881	xmcorey@okstate.edu	7609 Applegate St.Spencer, OK 73084
+CS 4143	Computer Graphics	Pruett, Lesli	A830870	lpruett@okstate.edu	650 Rose StreetOklahoma City, OK 73173
+CS 4283	Computer Networks	Silver, Aria	A137298	asilver@okstate.edu	8173 Indian Summer St.Oklahoma City, OK 73109
+CS 4143	Computer Graphics	Enzo Donaldson, Kelly	A429206	kedonaldson@okstate.edu	37 Lyme Ave.Oklahoma City, OK 73162
+CS 4143	Computer Graphics	Houston Cao, Clayton	A753566	chcao@okstate.edu	7671 Belmont St.Oklahoma City, OK 73127
+CS 4743	Extended Reality	Linda Erwin, Tiera	A806343	tlerwin@okstate.edu	8 Livingston Rd.Oklahoma City, OK 73122
+CS 2433	C/C++ Programming	Moses Billings, Wayne	A243672	wmbillings@okstate.edu	136 Fairfield Rd.Oklahoma City, OK 73150
+CS 3613	Theoretical Foundations of Computing	Gabrielle Roberson, Johanna	A288692	jgroberson@okstate.edu	985 Oak Valley Ave.Oklahoma City, OK 73135
+CS 3443	Computer Systems	Koehler, Emiliano	A412066	ekoehler@okstate.edu	1 W. Central St.Oklahoma City, OK 73111
+CS 3353	Data Structures and Algorithm Analysis I	Jensen Cyr, Lesli	A414430	ljcyr@okstate.edu	56 Halifax RoadOklahoma City, OK 73159
+CS 3513	Numerical Methods for Digital Computers	Olga Hollis, Naya	A887061	nohollis@okstate.edu	8086 Sunset Rd.Luther, OK 73054
+CS 4513	Introduction to Numerical Analysis	Broderick Stubbs, Hassan	A551555	hbstubbs@okstate.edu	492 S. Cedarwood StreetOklahoma City, OK 73130
+CS 4243	Introduction to Computer Security	Jankowski, Franklin	A745386	fjankowski@okstate.edu	92 Rockledge Ave.Oklahoma City, OK 73105
+CS 3570	Special Problems in Computer Science	Jauregui, Brendan	A290095	bjauregui@okstate.edu	359 S. Rockland St.Oklahoma City, OK 73110
+CS 4183	Video Game Design	Sanborn, Ramon	A556091	rsanborn@okstate.edu	8492 Wayne StreetChoctaw, OK 73020
+CS 4173	Video Game Development	Horne, Tayler	A785827	thorne@okstate.edu	8977 North Nichols St.Oklahoma City, OK 73145
+CS 4993	Senior Honors Project	Headley, Warren	A116826	wheadley@okstate.edu	43 Elmwood Ave.Oklahoma City, OK 73108
+CS 4183	Video Game Design	Alyson Bowens, Infant	A709445	iabowens@okstate.edu	8752 Prairie DriveOklahoma City, OK 73149
+CS 4243	Introduction to Computer Security	Mikel Hernandez, Weston	A447173	wmhernandez@okstate.edu	8918 Birchwood Dr.Oklahoma City, OK 73115
+CS 4883	Social Issues in Computing	Brandenburg, Kianna	A733833	kbrandenburg@okstate.edu	9995 Mill Pond St.Edmond, OK 73034
+CS 4173	Video Game Development	Field, Rico	A905489	rfield@okstate.edu	8346 W. Inverness DriveOklahoma City, OK 73127
+CS 4623	Introduction to Cyber Physical Systems	Macie Venegas, Jenny	A792329	jmvenegas@okstate.edu	25 Bridgeton St.Oklahoma City, OK 73162
+CS 4743	Extended Reality	Cao, Fatima	A805959	fcao@okstate.edu	998C Jockey Hollow RoadOklahoma City, OK 73131
+CS 3653	Discrete Mathematics for Computer Science	Bruno, Yehuda	A865677	ybruno@okstate.edu	5 Primrose St.Oklahoma City, OK 73119
+CS 4983	Senior Capstone Project	Frank Frazier, Jordi	A876700	jffrazier@okstate.edu	133 Orange RoadOklahoma City, OK 73118
+CS 4983	Senior Capstone Project	Woods, Bailee	A996879	bwoods@okstate.edu	8265 Pawnee St.Edmond, OK 73013
+CS 3363	Organization of Programming Languages	Helena Fernandez, Monica	A111917	mhfernandez@okstate.edu	324 North St.Spencer, OK 73084
+CS 2433	C/C++ Programming	Mckayla Orr, Juliet	A412692	jmorr@okstate.edu	9219 Purple Finch StreetOklahoma City, OK 73128
+CS 4153	Mobile Applications Development	Jamison Causey, Camryn	A108906	cjcausey@okstate.edu	291 Joy Ridge StreetOklahoma City, OK 73102
+CS 3363	Organization of Programming Languages	Kendyl Anthony, Nikita	A719314	nkanthony@okstate.edu	688 N. Market LaneOklahoma City, OK 73112
+CS 4623	Introduction to Cyber Physical Systems	Kalyn McCoy, Janay	A471932	jkmccoy@okstate.edu	190 Berkshire Ave.Oklahoma City, OK 73116
+CS 4373	Agile Software Development	Her, Adan	A285963	aher@okstate.edu	956 Lower River Ave.Harrah, OK 73045
+CS 4523	Cloud Computing and Distributed Systems	Mai, Emiliano	A254155	emai@okstate.edu	678 Trenton St.Oklahoma City, OK 73132
+MATH 2163	Calculus III	Coppola, Suzanne	A766189	scoppola@okstate.edu	865 E. Edgemont StreetOklahoma City, OK 73117
+CS 3363	Organization of Programming Languages	Campbell, Sherman	A228423	scampbell@okstate.edu	54 Kent St.Oklahoma City, OK 73135
+CS 3513	Numerical Methods for Digital Computers	Ellington, Ty	A896705	tellington@okstate.edu	49 N. Clark St.Oklahoma City, OK 73106
+CS 4143	Computer Graphics	Zaire Post, Montana	A368482	mzpost@okstate.edu	961 East Saxton RoadEdmond, OK 73025
+CS 4983	Senior Capstone Project	Loera, Jairo	A613177	jloera@okstate.edu	8266 West Grand RoadOklahoma City, OK 73121
+CS 3363	Organization of Programming Languages	Laken Kearney, Aiyanna	A657939	alkearney@okstate.edu	9879 High Ridge St.Oklahoma City, OK 73104
+CS 4143	Computer Graphics	Laila Kerns, Eliana	A467605	elkerns@okstate.edu	81 Buttonwood St.Jones, OK 73049
+CS 3353	Data Structures and Algorithm Analysis I	Felicia Neff, Cecelia	A903257	cfneff@okstate.edu	295 Hilldale St.Oklahoma City, OK 73114
+MATH 3013	Linear Algebra (A)	Monk, Kelsie	A843471	kmonk@okstate.edu	8 New DriveOklahoma City, OK 73179
+CS 4793	Artificial Intelligence I	Jordi Corbin, Jadon	A269349	jjcorbin@okstate.edu	66 Glen Ridge StreetOklahoma City, OK 73103
+CS 4283	Computer Networks	Helm, Izabella	A264417	ihelm@okstate.edu	83 Beaver Ridge DriveOklahoma City, OK 73142
+CS 4243	Introduction to Computer Security	Vincent, Heidy	A943950	hvincent@okstate.edu	9285C Colonial StreetOklahoma City, OK 73173
+CS 3513	Numerical Methods for Digital Computers	Burdick, Quintin	A597033	qburdick@okstate.edu	37 Bridle Rd.Oklahoma City, OK 73129
+CS 4143	Computer Graphics	Rosalie Neff, Tiffany	A769059	trneff@okstate.edu	663 Shub Farm StreetEdmond, OK 73003
+CS 3353	Data Structures and Algorithm Analysis I	Barrett Galbraith, Mustafa	A160907	mbgalbraith@okstate.edu	2 Rockaway St.Arcadia, OK 73007
+MATH 3013	Linear Algebra (A)	Holder, Maranda	A700441	mholder@okstate.edu	15 Leatherwood Dr.Oklahoma City, OK 73151
+CS 4143	Computer Graphics	Patterson, Magdalena	A230340	mpatterson@okstate.edu	8658 Carriage St.Oklahoma City, OK 73150
+CS 4623	Introduction to Cyber Physical Systems	Arevalo, Julian	A717791	jarevalo@okstate.edu	22 W. Carson LaneBethany, OK 73008
+CS 4883	Social Issues in Computing	Varun McClendon, Garret	A623914	gvmcclendon@okstate.edu	7549 Valley St.Oklahoma City, OK 73107
+CS 3570	Special Problems in Computer Science	Quincy Wilks, Ezequiel	A498848	eqwilks@okstate.edu	714 South King Ave.Edmond, OK 73012
+CS 3613	Theoretical Foundations of Computing	Crane, Emiliano	A166691	ecrane@okstate.edu	150 Sherman StreetOklahoma City, OK 73134
+CS 4143	Computer Graphics	Tatum Montero, Kaytlin	A859235	ktmontero@okstate.edu	727 Hickory StreetOklahoma City, OK 73139
+CS 4523	Cloud Computing and Distributed Systems	Comer, Izaiah	A141764	icomer@okstate.edu	367 Devonshire St.Oklahoma City, OK 73122
+CS 4570	Special Topics in Computing	Beau Hutchins, Silas	A779151	sbhutchins@okstate.edu	544 Indian Summer LaneOklahoma City, OK 73141
+CS 4373	Agile Software Development	Conor Hare, Norman	A780515	nchare@okstate.edu	5 Railroad AvenueOklahoma City, OK 73109
+CS 3653	Discrete Mathematics for Computer Science	Ryann Dunning, Dawn	A957427	drdunning@okstate.edu	8644 Prince StreetOklahoma City, OK 73120
+CS 4143	Computer Graphics	Bello, Kelley	A338500	kbello@okstate.edu	71 Bedford Dr.Oklahoma City, OK 73169
+CS 4323	Design and Implementation of Operating Systems I	Deonte Stanton, Dana	A864650	ddstanton@okstate.edu	9944 Forest DriveOklahoma City, OK 73173
+CS 4513	Introduction to Numerical Analysis	High, Makenna	A917499	mhigh@okstate.edu	77 East Plymouth Ave.Oklahoma City, OK 73104
+CS 4323	Design and Implementation of Operating Systems I	Trevion Ko, Gunner	A279097	gtko@okstate.edu	468 Lancaster LaneOklahoma City, OK 73150
+CS 4323	Design and Implementation of Operating Systems I	Odalys Graham, Abigayle	A656002	aograham@okstate.edu	45 Peg Shop AvenueOklahoma City, OK 73141
+CS 4793	Artificial Intelligence I	Barfield, Alton	A292214	abarfield@okstate.edu	238 Olive DriveOklahoma City, OK 73130
+CS 3653	Discrete Mathematics for Computer Science	Lizette Jacoby, Katya	A658177	kljacoby@okstate.edu	21 1st LaneArcadia, OK 73007
+CS 4743	Extended Reality	Stratton, Kelsie	A649096	kstratton@okstate.edu	9480 E. Linda St.Oklahoma City, OK 73159
+CS 3570	Special Problems in Computer Science	Janie Pemberton, Katya	A792899	kjpemberton@okstate.edu	6 Highland St.Oklahoma City, OK 73108
+MATH 2163	Calculus III	Sabastian Krebs, Ronan	A543126	rskrebs@okstate.edu	4 Valley View DriveOklahoma City, OK 73179
+CS 4570	Special Topics in Computing	Lela Yates, Barbara	A629421	blyates@okstate.edu	7098 Glenridge AvenueEdmond, OK 73003
+MATH 2163	Calculus III	Garza, Jovanny	A358953	jgarza@okstate.edu	227 Cambridge Ave.Oklahoma City, OK 73149
+CS 3613	Theoretical Foundations of Computing	Keshon Canales, Ajay	A100250	akcanales@okstate.edu	8723 Pilgrim St.Oklahoma City, OK 73107
+CS 4283	Computer Networks	Murdock, Omar	A406269	omurdock@okstate.edu	944 Talbot LaneSpencer, OK 73084
+CS 4513	Introduction to Numerical Analysis	Jami Neil, China	A839421	cjneil@okstate.edu	25 East Creek St.Oklahoma City, OK 73129
+CS 2433	C/C++ Programming	Aubrey Nava, Chandler	A843044	canava@okstate.edu	20 Bridge StreetOklahoma City, OK 73169
+CS 4373	Agile Software Development	Lance Fredrickson, Tomas	A161146	tlfredrickson@okstate.edu	70 Shadow Brook AvenueEdmond, OK 73012
+CS 3353	Data Structures and Algorithm Analysis I	Karlee Wolff, Amaris	A423180	akwolff@okstate.edu	274 Ridgeview Dr.Oklahoma City, OK 73132
+CS 3030	Industrial Practice in Computer Science	Cone, Josefina	A963778	jcone@okstate.edu	126 Glenholme LaneEdmond, OK 73013
+CS 3353	Data Structures and Algorithm Analysis I	Minter, London	A149156	lminter@okstate.edu	704 Princeton Ave.Jones, OK 73049
+CS 4323	Design and Implementation of Operating Systems I	Erb, Humberto	A456778	herb@okstate.edu	226 E. Cherry Hill CourtOklahoma City, OK 73128
+CS 4993	Senior Honors Project	Zariah Coley, Analisa	A567854	azcoley@okstate.edu	341 Market Ave.Oklahoma City, OK 73121
+CS 3030	Industrial Practice in Computer Science	Freedman, Marley	A323783	mfreedman@okstate.edu	994 S. John Ave.Oklahoma City, OK 73120
+CS 4570	Special Topics in Computing	Camryn Duong, Brandon	A116485	bcduong@okstate.edu	7204 Spruce LaneEdmond, OK 73025
+CS 4793	Artificial Intelligence I	Meade, Monserrat	A684771	mmeade@okstate.edu	957 North Green St.Oklahoma City, OK 73116
+CS 4433	Introduction to Database Systems	Dylon Purdy, Johnny	A222817	jdpurdy@okstate.edu	537 Bear Hill St.Oklahoma City, OK 73110
+CS 4983	Senior Capstone Project	Jamari McCain, Messiah	A412468	mjmccain@okstate.edu	87 Leatherwood CourtOklahoma City, OK 73122
+CS 4183	Video Game Design	Boland, Lyric	A997999	lboland@okstate.edu	53 Aspen St.Oklahoma City, OK 73162
+CS 4243	Introduction to Computer Security	Robles, Hailee	A169970	hrobles@okstate.edu	109 South Hilldale LaneOklahoma City, OK 73118
+CS 3363	Organization of Programming Languages	Shakira Collazo, Delanie	A639658	dscollazo@okstate.edu	864 Mulberry CourtOklahoma City, OK 73131
+CS 3363	Organization of Programming Languages	John Tolbert, Kavon	A732869	kjtolbert@okstate.edu	447 Queen DriveOklahoma City, OK 73105
+CS 4793	Artificial Intelligence I	Hardin, Kacey	A956841	khardin@okstate.edu	55 Broad DriveOklahoma City, OK 73111
+CS 4523	Cloud Computing and Distributed Systems	Duval, Kirstin	A667868	kduval@okstate.edu	443 Airport Ave.Harrah, OK 73045
+MATH 3013	Linear Algebra (A)	Zayne Lowry, Gerardo	A744409	gzlowry@okstate.edu	7130 S. Boston StreetOklahoma City, OK 73151
+CS 3030	Industrial Practice in Computer Science	Makayla Brice, Stormy	A853328	smbrice@okstate.edu	936 Atlantic Ave.Oklahoma City, OK 73117
+CS 4373	Agile Software Development	Gemma Jacobs, Malaysia	A122164	mgjacobs@okstate.edu	127 North Glen Ridge StreetOklahoma City, OK 73127
+CS 4143	Computer Graphics	Holland Trejo, Abby	A991023	ahtrejo@okstate.edu	40 Corona CourtOklahoma City, OK 73135
+CS 3363	Organization of Programming Languages	Moulton, Gavin	A793198	gmoulton@okstate.edu	995 SE. Summer St.Oklahoma City, OK 73106
+CS 3443	Computer Systems	Kurtis Dunning, Yisroel	A253017	ykdunning@okstate.edu	303 53rd AvenueOklahoma City, OK 73142
+CS 4153	Mobile Applications Development	Augustine, Mae	A505349	maugustine@okstate.edu	713 East Bellevue StreetChoctaw, OK 73020
+CS 4273	Software Engineering	McCoy, Margarita	A128622	mmccoy@okstate.edu	7229 Clark StreetBethany, OK 73008
+CS 4283	Computer Networks	Lane Guerra, Caiden	A610521	clguerra@okstate.edu	7755 Clark DriveEdmond, OK 73034
+CS 3653	Discrete Mathematics for Computer Science	Sofia Hendrix, Zoie	A497469	zshendrix@okstate.edu	3 Brookside DriveOklahoma City, OK 73103
+CS 4283	Computer Networks	Kemper, Tamera	A325732	tkemper@okstate.edu	7985 Greenrose LaneOklahoma City, OK 73115
+CS 4983	Senior Capstone Project	Casillas, Tracy	A660811	tcasillas@okstate.edu	179 North Johnson DriveLuther, OK 73054
+CS 4283	Computer Networks	Parson, Marianna	A359275	mparson@okstate.edu	84 Sherman Ave.Oklahoma City, OK 73119
+CS 4173	Video Game Development	Dandre Mooney, Genaro	A888409	gdmooney@okstate.edu	8217 Ridgeview AvenueOklahoma City, OK 73109
+CS 4993	Senior Honors Project	Lauer, Casandra	A769871	clauer@okstate.edu	19 Elm Dr.Oklahoma City, OK 73134
+CS 4743	Extended Reality	Ridgeway, Noa	A491653	nridgeway@okstate.edu	83 Park StreetOklahoma City, OK 73102
+CS 4283	Computer Networks	Dietz, Meaghan	A160542	mdietz@okstate.edu	8328 George StreetOklahoma City, OK 73112
+CS 4273	Software Engineering	Joseline Moody, Destiney	A109883	djmoody@okstate.edu	9057 Laurel Ave.Oklahoma City, OK 73145
+CS 4783	Machine Learning	Linn, Cornelius	A655276	clinn@okstate.edu	8914 S. El Dorado StreetOklahoma City, OK 73139
+CS 3030	Industrial Practice in Computer Science	Jevon Baldwin, Myles	A375087	mjbaldwin@okstate.edu	410 Glenwood St.Oklahoma City, OK 73114
+CS 3570	Special Problems in Computer Science	Caputo, Lacy	A109598	lcaputo@okstate.edu	9922 Sulphur Springs StreetOklahoma City, OK 73105
+CS 4623	Introduction to Cyber Physical Systems	Holm, Ismael	A412919	iholm@okstate.edu	7451 Primrose Ave.Edmond, OK 73025
+CS 2433	C/C++ Programming	Daugherty, Ansley	A592803	adaugherty@okstate.edu	9053 E. Roberts Dr.Oklahoma City, OK 73150
+MATH 3013	Linear Algebra (A)	Christensen, Gregory	A587174	gchristensen@okstate.edu	64 S. Baker Dr.Oklahoma City, OK 73111
+CS 4153	Mobile Applications Development	Ian Holm, Uriah	A202021	uiholm@okstate.edu	7504 Marlborough LaneOklahoma City, OK 73103
+CS 4523	Cloud Computing and Distributed Systems	Kierstin Bohannon, Dorothy	A468063	dkbohannon@okstate.edu	17 North Poor House StreetOklahoma City, OK 73106
+CS 4793	Artificial Intelligence I	Pryor, Oswaldo	A317769	opryor@okstate.edu	360 Arnold Rd.Oklahoma City, OK 73132
+CS 3363	Organization of Programming Languages	Kern, Moira	A871673	mkern@okstate.edu	799 Ketch Harbour St.Oklahoma City, OK 73121
+CS 4173	Video Game Development	Enzo Aiello, Jessie	A786709	jeaiello@okstate.edu	675 E. Cardinal LaneOklahoma City, OK 73130
+CS 3353	Data Structures and Algorithm Analysis I	Lyon, Reed	A436246	rlyon@okstate.edu	200 Wall AvenueOklahoma City, OK 73108
+CS 4183	Video Game Design	Isabelle McMillan, Brandi	A362141	bimcmillan@okstate.edu	9355 Primrose St.Oklahoma City, OK 73169
+CS 4273	Software Engineering	Deanna Kraus, Haylee	A523838	hdkraus@okstate.edu	7058 Sunnyslope St.Oklahoma City, OK 73131
+CS 4143	Computer Graphics	Farris, Humberto	A295424	hfarris@okstate.edu	756 Miles StreetOklahoma City, OK 73104
+CS 4323	Design and Implementation of Operating Systems I	Casey Ho, London	A339859	lcho@okstate.edu	86 Depot RoadOklahoma City, OK 73135
+MATH 2163	Calculus III	North, Maleah	A650451	mnorth@okstate.edu	8532 West Dunbar DriveOklahoma City, OK 73127
+CS 4183	Video Game Design	Troutman, Juliana	A402331	jtroutman@okstate.edu	7218 Crescent StreetOklahoma City, OK 73115
+MATH 3013	Linear Algebra (A)	Martinez, Jaycob	A771866	jmartinez@okstate.edu	984 Carriage St.Oklahoma City, OK 73145
+CS 4173	Video Game Development	Felix Courtney, Deangelo	A942985	dfcourtney@okstate.edu	953 Indian Spring CourtOklahoma City, OK 73110
+CS 2433	C/C++ Programming	Israel Starling, Johnnie	A808524	jistarling@okstate.edu	82 Myrtle Ave.Oklahoma City, OK 73134
+CS 2433	C/C++ Programming	Weston Knight, Benito	A590760	bwknight@okstate.edu	922 Woodsman St.Edmond, OK 73012
+MATH 2163	Calculus III	Bills, Devon	A733564	dbills@okstate.edu	662 Brickell Rd.Edmond, OK 73034
+CS 3353	Data Structures and Algorithm Analysis I	Lawler, Holland	A306725	hlawler@okstate.edu	27 Ridgeview St.Edmond, OK 73003
+MATH 3013	Linear Algebra (A)	Bernal, Seamus	A725852	sbernal@okstate.edu	470 Sage St.Choctaw, OK 73020
+CS 4783	Machine Learning	Kasandra Shuler, Evelin	A179888	ekshuler@okstate.edu	3 Gartner Ave.Oklahoma City, OK 73114
+CS 4983	Senior Capstone Project	Allissa McCutcheon, Tristen	A159923	tamccutcheon@okstate.edu	845 3rd St.Oklahoma City, OK 73129
+CS 4243	Introduction to Computer Security	Notnamed Ralston, Audra	A831130	anralston@okstate.edu	8091 Wall St.Jones, OK 73049
+CS 3513	Numerical Methods for Digital Computers	England, Adelaide	A436802	aengland@okstate.edu	911 Poplar Dr.Oklahoma City, OK 73159
+CS 2433	C/C++ Programming	Keven Sorrell, Sebastian	A234334	sksorrell@okstate.edu	7159 Anderson StreetEdmond, OK 73013
+CS 3513	Numerical Methods for Digital Computers	Zapata, Devan	A103956	dzapata@okstate.edu	941 Glen Eagles LaneOklahoma City, OK 73118
+CS 3570	Special Problems in Computer Science	Destini Fitzgerald, Deja	A495015	ddfitzgerald@okstate.edu	6 Cypress StreetOklahoma City, OK 73112
+CS 3443	Computer Systems	Michelle Souza, Elizabeth	A107372	emsouza@okstate.edu	8375 Littleton RoadOklahoma City, OK 73142
+CS 3513	Numerical Methods for Digital Computers	Ervin Acker, Jadon	A229110	jeacker@okstate.edu	649 Shipley DriveOklahoma City, OK 73102
+CS 4173	Video Game Development	Kaia Donnell, Eunice	A115113	ekdonnell@okstate.edu	81 Lookout Ave.Oklahoma City, OK 73128
+CS 4243	Introduction to Computer Security	Goodwin, Leslie	A895450	lgoodwin@okstate.edu	9732 Shipley StreetOklahoma City, OK 73122
+CS 4793	Artificial Intelligence I	Dominik Ransom, Elvin	A231386	edransom@okstate.edu	53 Halifax StreetArcadia, OK 73007
+CS 4983	Senior Capstone Project	Hayden, Sheridan	A897814	shayden@okstate.edu	15 North Winchester Ave.Oklahoma City, OK 73162
+CS 4743	Extended Reality	Isabella Olivo, Lillian	A118984	liolivo@okstate.edu	97 Court St.Oklahoma City, OK 73118
+CS 4743	Extended Reality	Meadows, Kaylie	A499351	kmeadows@okstate.edu	96 East Rock Creek StreetOklahoma City, OK 73127
+CS 4623	Introduction to Cyber Physical Systems	Billingsley, Clark	A807154	cbillingsley@okstate.edu	60 Mountainview Ave.Oklahoma City, OK 73135
+CS 4153	Mobile Applications Development	McLain, Gissell	A513115	gmclain@okstate.edu	33 George RoadOklahoma City, OK 73103
+CS 3613	Theoretical Foundations of Computing	Gant, Laken	A275961	lgant@okstate.edu	11 Vale Ave.Oklahoma City, OK 73141
+CS 3030	Industrial Practice in Computer Science	Free, Candace	A665963	cfree@okstate.edu	49 Cottage Dr.Choctaw, OK 73020
+CS 4743	Extended Reality	Genevieve Maples, Katelin	A306993	kgmaples@okstate.edu	7027 North Taylor Dr.Oklahoma City, OK 73130
+CS 3443	Computer Systems	Sharon Foss, Kalyn	A862347	ksfoss@okstate.edu	5 North Cedar LaneOklahoma City, OK 73105
+CS 3443	Computer Systems	Franco Starks, Marcanthony	A725030	mfstarks@okstate.edu	7598 Dunbar Rd.Oklahoma City, OK 73114
+CS 4570	Special Topics in Computing	Villanueva, Chantel	A910990	cvillanueva@okstate.edu	312 Colonial CourtOklahoma City, OK 73142
+CS 4183	Video Game Design	Isai Mcghee, Deonte	A584485	dimcghee@okstate.edu	7700 Homestead RoadBethany, OK 73008
+CS 4373	Agile Software Development	Renae Grogan, Rosemary	A927051	rrgrogan@okstate.edu	529 Pleasant St.Oklahoma City, OK 73145
+CS 4570	Special Topics in Computing	Caylee Barnhill, Iyana	A395981	icbarnhill@okstate.edu	8579 Silver Spear St.Edmond, OK 73034
+MATH 3013	Linear Algebra (A)	Kacie Donald, Fernanda	A461882	fkdonald@okstate.edu	528 Pheasant St.Oklahoma City, OK 73106
+CS 4283	Computer Networks	Compton, Bridgette	A349189	bcompton@okstate.edu	692 Del Monte Ave.Oklahoma City, OK 73120
+CS 4153	Mobile Applications Development	Micah Gilbert, Kristi	A665456	kmgilbert@okstate.edu	8467 Bay Meadows Dr.Oklahoma City, OK 73110
+CS 4323	Design and Implementation of Operating Systems I	Strange, Kelis	A474670	kstrange@okstate.edu	93 High Ave.Oklahoma City, OK 73150
+CS 4173	Video Game Development	Adam, Jean	A856029	jadam@okstate.edu	204 Shore Ave.Jones, OK 73049
+CS 3570	Special Problems in Computer Science	Crocker, Ivanna	A250029	icrocker@okstate.edu	96 Del Monte Ave.Oklahoma City, OK 73109
+CS 4983	Senior Capstone Project	Rena Kang, Fatima	A145211	frkang@okstate.edu	19 Tailwater Ave.Oklahoma City, OK 73122
+CS 4373	Agile Software Development	Mykayla Hannon, Celeste	A639454	cmhannon@okstate.edu	9667 Pumpkin Hill LaneOklahoma City, OK 73134
+CS 4983	Senior Capstone Project	Hammond, Alejandro	A855355	ahammond@okstate.edu	7097 Mayfield StreetOklahoma City, OK 73104
+CS 4143	Computer Graphics	Renteria, Anabel	A810929	arenteria@okstate.edu	9202 Harvey St.Edmond, OK 73013
+CS 4373	Agile Software Development	Isha Aquino, Catalina	A547093	ciaquino@okstate.edu	9936 Studebaker LaneOklahoma City, OK 73108
+CS 4743	Extended Reality	Ashton Burch, Starr	A679324	saburch@okstate.edu	60 Campfire StreetLuther, OK 73054
+MATH 3013	Linear Algebra (A)	Alissa Purdy, Kaylee	A665939	kapurdy@okstate.edu	83 W. Hickory St.Oklahoma City, OK 73121
+CS 3443	Computer Systems	Shelbie Pina, Ellie	A141118	espina@okstate.edu	309 Thatcher DriveOklahoma City, OK 73179
+CS 3513	Numerical Methods for Digital Computers	Dasilva, Luz	A960587	ldasilva@okstate.edu	189 Lyme St.Oklahoma City, OK 73132
+CS 4433	Introduction to Database Systems	Breen, Rocco	A704284	rbreen@okstate.edu	791 Birch Hill Ave.Oklahoma City, OK 73117
+CS 4373	Agile Software Development	Cerda, Jaida	A932612	jcerda@okstate.edu	3 Grove StreetOklahoma City, OK 73119
+CS 4743	Extended Reality	Moya, Kaci	A818341	kmoya@okstate.edu	1 W. Sierra Ave.Oklahoma City, OK 73111
+CS 3443	Computer Systems	Haas, Jarrett	A727362	jhaas@okstate.edu	8751 Division St.Oklahoma City, OK 73115
+CS 4243	Introduction to Computer Security	Howland, Jarret	A964194	jhowland@okstate.edu	9912 Hilltop St.Edmond, OK 73012
+CS 3030	Industrial Practice in Computer Science	Solomon Butcher, Terence	A968869	tsbutcher@okstate.edu	730 Coffee St.Harrah, OK 73045
+CS 4523	Cloud Computing and Distributed Systems	Emmett Fitzsimmons, Roberto	A261118	refitzsimmons@okstate.edu	74 Brookside StreetArcadia, OK 73007
+CS 4523	Cloud Computing and Distributed Systems	Penn, Brisa	A145109	bpenn@okstate.edu	88 Marsh Ave.Oklahoma City, OK 73102
+CS 4793	Artificial Intelligence I	Schindler, Lester	A765037	lschindler@okstate.edu	20 Hartford St.Oklahoma City, OK 73107
+CS 4323	Design and Implementation of Operating Systems I	Alex Michel, Yvonne	A588297	yamichel@okstate.edu	7926 Dunbar CourtOklahoma City, OK 73131
+CS 4743	Extended Reality	Zimmer, Margarita	A195926	mzimmer@okstate.edu	7948 Overlook Ave.Oklahoma City, OK 73112
+CS 4883	Social Issues in Computing	Dante Ledford, Tyreek	A918851	tdledford@okstate.edu	85 Arcadia St.Oklahoma City, OK 73169
+CS 4783	Machine Learning	Giordano, Anton	A668643	agiordano@okstate.edu	10 High Point Dr.Oklahoma City, OK 73129
+CS 4513	Introduction to Numerical Analysis	Sunny Johansen, Emilee	A452055	esjohansen@okstate.edu	865 Poor House StreetOklahoma City, OK 73151
+CS 4983	Senior Capstone Project	Kaytlin Renfro, Cecelia	A880872	ckrenfro@okstate.edu	271 Crescent AvenueOklahoma City, OK 73173
+CS 4143	Computer Graphics	Angel Rudd, Alfonso	A609844	aarudd@okstate.edu	8363 Carriage LaneOklahoma City, OK 73128
+CS 2433	C/C++ Programming	Lacy McGraw, Kerri	A770790	klmcgraw@okstate.edu	9291 E. Gainsway StreetEdmond, OK 73025
+CS 4513	Introduction to Numerical Analysis	Rincon, Gunner	A492087	grincon@okstate.edu	145 Shipley St.Oklahoma City, OK 73159
+CS 3443	Computer Systems	Lapointe, Jazlyn	A800259	jlapointe@okstate.edu	34 Summit LaneSpencer, OK 73084
+CS 3653	Discrete Mathematics for Computer Science	Madrigal, Draven	A370771	dmadrigal@okstate.edu	9601 Ryan Ave.Oklahoma City, OK 73116
+CS 4323	Design and Implementation of Operating Systems I	Dempsey, Kellie	A117818	kdempsey@okstate.edu	656 Joy Ridge StreetOklahoma City, OK 73149
+CS 4283	Computer Networks	Norman Song, Tate	A144200	tnsong@okstate.edu	699 Virginia LaneOklahoma City, OK 73139
+MATH 3013	Linear Algebra (A)	Womack, Jalen	A588879	jwomack@okstate.edu	7818 Amerige DriveEdmond, OK 73003
+CS 4513	Introduction to Numerical Analysis	Gregory, Paloma	A190083	pgregory@okstate.edu	8191 Edgewater Ave.Jones, OK 73049
+CS 3363	Organization of Programming Languages	Maliyah Dion, Gabriel	A435757	gmdion@okstate.edu	17 Pacific St.Spencer, OK 73084
+CS 4793	Artificial Intelligence I	Leo Horn, Menachem	A169900	mlhorn@okstate.edu	258 Indian Summer St.Luther, OK 73054
+CS 4743	Extended Reality	Amaya Strom, Nicolle	A616071	nastrom@okstate.edu	905 53rd StreetOklahoma City, OK 73139
+CS 4743	Extended Reality	Breann Comstock, Kaylah	A221547	kbcomstock@okstate.edu	76 Rock Creek Rd.Oklahoma City, OK 73162
+CS 4623	Introduction to Cyber Physical Systems	Nehemiah Barber, Daylon	A448101	dnbarber@okstate.edu	7465 Cedarwood LaneOklahoma City, OK 73145
+CS 4143	Computer Graphics	Cleary, Robert	A778232	rcleary@okstate.edu	9279 Lilac Rd.Oklahoma City, OK 73131
+CS 3353	Data Structures and Algorithm Analysis I	Tevin Stacy, Glen	A974478	gtstacy@okstate.edu	677 Arlington StreetOklahoma City, OK 73118
+CS 3363	Organization of Programming Languages	Warren, Peter	A333810	pwarren@okstate.edu	636 E. Leeton Ridge StreetOklahoma City, OK 73105
+CS 4243	Introduction to Computer Security	Rory McCorkle, Madison	A254907	mrmccorkle@okstate.edu	7291 Summit Dr.Oklahoma City, OK 73135
+CS 3570	Special Problems in Computer Science	Ashlin Woodson, Carol	A305418	cawoodson@okstate.edu	52 Pheasant StreetOklahoma City, OK 73110
+CS 4273	Software Engineering	Bartholomew, Camila	A154801	cbartholomew@okstate.edu	76 Edgefield Ave.Oklahoma City, OK 73103
+CS 4183	Video Game Design	Mazur, Tyriq	A860722	tmazur@okstate.edu	89 Prince Ave.Oklahoma City, OK 73127
+CS 4283	Computer Networks	Noelle Pruett, Carli	A581263	cnpruett@okstate.edu	63 W. Peninsula StreetOklahoma City, OK 73115
+CS 4283	Computer Networks	Poindexter, Jacinda	A921640	jpoindexter@okstate.edu	9962 Bank St.Oklahoma City, OK 73132
+CS 4433	Introduction to Database Systems	Lyon, Donovan	A859115	dlyon@okstate.edu	7555 N. Grandrose StreetOklahoma City, OK 73121
+CS 3613	Theoretical Foundations of Computing	Chew, Ralph	A663162	rchew@okstate.edu	9408 Meadow St.Oklahoma City, OK 73119
+CS 4433	Introduction to Database Systems	Fong, Mari	A506371	mfong@okstate.edu	222 Glendale Dr.Oklahoma City, OK 73179
+CS 4513	Introduction to Numerical Analysis	Sharon Fabian, Ashli	A184105	asfabian@okstate.edu	31 Greenview StreetOklahoma City, OK 73151
+CS 4323	Design and Implementation of Operating Systems I	Poirier, Deion	A183504	dpoirier@okstate.edu	734 West Chestnut St.Oklahoma City, OK 73107
+CS 3613	Theoretical Foundations of Computing	Bergman, Lynsey	A540111	lbergman@okstate.edu	657 S. Oak Valley Dr.Oklahoma City, OK 73109
+CS 4793	Artificial Intelligence I	Yaritza Ridley, Iliana	A725960	iyridley@okstate.edu	70 Lakewood Ave.Oklahoma City, OK 73173
+CS 2433	C/C++ Programming	Clouse, Aleena	A781866	aclouse@okstate.edu	26 West StreetOklahoma City, OK 73108
+CS 4143	Computer Graphics	Jamarcus Lumpkin, Deangelo	A512787	djlumpkin@okstate.edu	32 King Rd.Oklahoma City, OK 73150
+CS 4983	Senior Capstone Project	Lynn, Lindsey	A737465	llynn@okstate.edu	78 Thorne DriveOklahoma City, OK 73106
+CS 3513	Numerical Methods for Digital Computers	Leticia Myrick, Shiann	A937311	slmyrick@okstate.edu	7376 Harvey St.Oklahoma City, OK 73120
+CS 4433	Introduction to Database Systems	Shumaker, Jimmie	A728177	jshumaker@okstate.edu	8199 E. Tunnel LaneOklahoma City, OK 73141
+CS 4143	Computer Graphics	Ajay Hartmann, Camryn	A944438	cahartmann@okstate.edu	8334 Queen LaneEdmond, OK 73013
+CS 4243	Introduction to Computer Security	Gentry, Joan	A926791	jgentry@okstate.edu	8944 Leatherwood Rd.Oklahoma City, OK 73116
+CS 4523	Cloud Computing and Distributed Systems	Kelsy Wells, Maliyah	A189036	mkwells@okstate.edu	9633 Canterbury StreetOklahoma City, OK 73128
+CS 4173	Video Game Development	Glynn, Abraham	A264479	aglynn@okstate.edu	48 Ocean Rd.Oklahoma City, OK 73169
+CS 4243	Introduction to Computer Security	Jeffery, Blanca	A407668	bjeffery@okstate.edu	9952 Main CourtOklahoma City, OK 73129
+CS 3363	Organization of Programming Languages	Ryleigh Corey, Cheyanne	A491294	crcorey@okstate.edu	5 6th Dr.Oklahoma City, OK 73159
+CS 4570	Special Topics in Computing	Arron Washington, Caden	A599417	cawashington@okstate.edu	233 Glenlake StreetChoctaw, OK 73020
+CS 3653	Discrete Mathematics for Computer Science	Valeria Cardona, Kiersten	A812031	kvcardona@okstate.edu	113 West Inverness RoadOklahoma City, OK 73114
+CS 4183	Video Game Design	Baker, Heaven	A122520	hbaker@okstate.edu	81 Cedar CircleHarrah, OK 73045
+CS 2433	C/C++ Programming	Hollis, Edgar	A759466	ehollis@okstate.edu	412 Tunnel St.Edmond, OK 73003
+MATH 3013	Linear Algebra (A)	Edward Lay, Jabari	A647791	jelay@okstate.edu	458 Arrowhead Ave.Oklahoma City, OK 73111
+CS 4143	Computer Graphics	Merchant, Jack	A824004	jmerchant@okstate.edu	499 East Wayne St.Oklahoma City, OK 73149
+CS 4623	Introduction to Cyber Physical Systems	Bender, Domonique	A324698	dbender@okstate.edu	9762 El Dorado LaneOklahoma City, OK 73130
+CS 4283	Computer Networks	McClelland, Cheyanne	A781009	cmcclelland@okstate.edu	7 South Hartford RoadOklahoma City, OK 73142
+CS 4173	Video Game Development	Dietrich, Mckenna	A596442	mdietrich@okstate.edu	56 Rocky River Ave.Oklahoma City, OK 73112
+CS 4570	Special Topics in Computing	Ashely Zhao, Alannah	A215041	aazhao@okstate.edu	8 Elizabeth DriveOklahoma City, OK 73134
+CS 3653	Discrete Mathematics for Computer Science	Willett, Thomas	A940643	twillett@okstate.edu	859 Lake Forest St.Arcadia, OK 73007
+CS 3613	Theoretical Foundations of Computing	Warren, Sky	A336292	swarren@okstate.edu	239 El Dorado Rd.Edmond, OK 73034
+CS 4793	Artificial Intelligence I	Devontae Leyva, Caden	A880738	cdleyva@okstate.edu	60 Alton StreetOklahoma City, OK 73102
+CS 2433	C/C++ Programming	Averie Waldrop, Ciana	A323170	cawaldrop@okstate.edu	818 Richardson Ave.Oklahoma City, OK 73104
+CS 4183	Video Game Design	Sanford, Libby	A358087	lsanford@okstate.edu	512 Oak Meadow St.Edmond, OK 73012
+CS 2433	C/C++ Programming	Barr, Tyrek	A267810	tbarr@okstate.edu	54 Del Monte Rd.Oklahoma City, OK 73117
+CS 3570	Special Problems in Computer Science	Bock, Emani	A223163	ebock@okstate.edu	8259 Acacia St.Oklahoma City, OK 73122
+MATH 3013	Linear Algebra (A)	Tye Yang, Quincy	A895554	qtyang@okstate.edu	51 Lexington StreetEdmond, OK 73025
+CS 3613	Theoretical Foundations of Computing	Baird, Ryan	A748852	rbaird@okstate.edu	88 Temple StreetBethany, OK 73008
+CS 3030	Industrial Practice in Computer Science	Ayres, Russell	A251109	rayres@okstate.edu	6 Penn LaneOklahoma City, OK 73104
+CS 4143	Computer Graphics	Robert Giordano, Jaycob	A765176	jrgiordano@okstate.edu	97 Fordham Dr.Oklahoma City, OK 73103
+CS 4883	Social Issues in Computing	Houck, Kala	A165845	khouck@okstate.edu	2 E. Jackson St.Oklahoma City, OK 73107
+CS 4373	Agile Software Development	Pinto, Octavio	A171760	opinto@okstate.edu	7418 Fulton Dr.Oklahoma City, OK 73145
+MATH 3013	Linear Algebra (A)	Jorden McCartney, Amya	A315574	ajmccartney@okstate.edu	241 S. Green Lake St.Edmond, OK 73034
+CS 3653	Discrete Mathematics for Computer Science	Ashleigh Naylor, Marilyn	A386636	manaylor@okstate.edu	4 Vernon St.Oklahoma City, OK 73122
+CS 4373	Agile Software Development	Bailee Copeland, Montserrat	A451886	mbcopeland@okstate.edu	17 Pendergast Ave.Oklahoma City, OK 73114
+CS 4783	Machine Learning	Junior Blum, Kristofer	A844849	kjblum@okstate.edu	8380 Kingston Dr.Oklahoma City, OK 73130
+CS 4983	Senior Capstone Project	Tully, Harrison	A464379	htully@okstate.edu	760 Jefferson Ave.Oklahoma City, OK 73116
+CS 4883	Social Issues in Computing	Pelletier, Titus	A772436	tpelletier@okstate.edu	7517 Sulphur Springs St.Oklahoma City, OK 73150
+CS 4993	Senior Honors Project	Nyasia Seifert, Zaria	A726330	znseifert@okstate.edu	265 Grandrose StreetOklahoma City, OK 73129
+CS 3613	Theoretical Foundations of Computing	Corcoran, Stefany	A982629	scorcoran@okstate.edu	2 Henry StreetChoctaw, OK 73020
+CS 4783	Machine Learning	Mark Mann, Robert	A348161	rmmann@okstate.edu	4 Brookside StreetOklahoma City, OK 73109
+CS 4743	Extended Reality	Jaramillo, Annabel	A410160	ajaramillo@okstate.edu	7486 E. Wild Horse StreetLuther, OK 73054
+CS 4283	Computer Networks	Bourgeois, Santos	A999936	sbourgeois@okstate.edu	452 E. Bridgeton StreetOklahoma City, OK 73179
+CS 4323	Design and Implementation of Operating Systems I	Ketchum, Austen	A387276	aketchum@okstate.edu	7 Jackson StreetOklahoma City, OK 73111
+CS 3353	Data Structures and Algorithm Analysis I	Grossman, Emanuel	A455243	egrossman@okstate.edu	116 Coffee DriveOklahoma City, OK 73162
+CS 4513	Introduction to Numerical Analysis	Cornett, Delia	A450523	dcornett@okstate.edu	7886 Winchester RoadEdmond, OK 73003
+CS 4983	Senior Capstone Project	Swenson, Abdullah	A212858	aswenson@okstate.edu	837 Hilldale StreetEdmond, OK 73013
+CS 4570	Special Topics in Computing	Cintron, Daquan	A433112	dcintron@okstate.edu	9592 Dunbar Ave.Oklahoma City, OK 73149
+CS 4153	Mobile Applications Development	Esmeralda Khan, Evelyn	A963445	eekhan@okstate.edu	7754 Cardinal RoadOklahoma City, OK 73151
+CS 4273	Software Engineering	Goldberg, Aysia	A837670	agoldberg@okstate.edu	5 Roberts St.Oklahoma City, OK 73142
+CS 4623	Introduction to Cyber Physical Systems	Dees, Avery	A802585	adees@okstate.edu	500 North 4th St.Oklahoma City, OK 73141
+CS 3653	Discrete Mathematics for Computer Science	Mohammed Pereira, Izaiah	A934117	impereira@okstate.edu	1 Bridle CourtOklahoma City, OK 73159
+CS 4793	Artificial Intelligence I	Danyelle Magana, Janell	A417431	jdmagana@okstate.edu	8383 Lakeshore AvenueOklahoma City, OK 73112
+CS 4173	Video Game Development	Spencer Murray, Houston	A721677	hsmurray@okstate.edu	977 Carson LaneOklahoma City, OK 73105
+CS 4273	Software Engineering	Madalynn Cranford, Robyn	A692127	rmcranford@okstate.edu	555 NE. College LaneOklahoma City, OK 73169
+CS 4513	Introduction to Numerical Analysis	Damaris Logan, Dayana	A288553	ddlogan@okstate.edu	969 Oklahoma St.Oklahoma City, OK 73106
+CS 4783	Machine Learning	Murray, Quentin	A556950	qmurray@okstate.edu	205 W. Helen DriveOklahoma City, OK 73119
+CS 3570	Special Problems in Computer Science	Aman Rawls, Eddy	A398183	earawls@okstate.edu	823 Westminster CourtOklahoma City, OK 73173
+CS 4523	Cloud Computing and Distributed Systems	Hurtado, Gloria	A490400	ghurtado@okstate.edu	9762 West Amerige Dr.Oklahoma City, OK 73115
+CS 4783	Machine Learning	Ahmed, Jalon	A361079	jahmed@okstate.edu	461 Broad St.Oklahoma City, OK 73131
+CS 4883	Social Issues in Computing	Tiarra Colvin, Pauline	A607609	ptcolvin@okstate.edu	9930 Carriage DriveOklahoma City, OK 73118
+CS 3030	Industrial Practice in Computer Science	Marcus, Abel	A986123	amarcus@okstate.edu	7717 Saxon CourtOklahoma City, OK 73108
+CS 4623	Introduction to Cyber Physical Systems	Raul Nolan, Beau	A615862	brnolan@okstate.edu	11 Birchwood LaneOklahoma City, OK 73132
+CS 4243	Introduction to Computer Security	Judy Galbraith, Toni	A516740	tjgalbraith@okstate.edu	7144 Sierra CourtHarrah, OK 73045
+CS 4570	Special Topics in Computing	Purvis, Calli	A995471	cpurvis@okstate.edu	136 Depot Dr.Oklahoma City, OK 73134
+CS 4433	Introduction to Database Systems	Nicholson, Lyric	A939836	lnicholson@okstate.edu	462 Golf StreetSuite 206
+CS 4243	Introduction to Computer Security	Mauricio Pereira, Kamren	A278120	kmpereira@okstate.edu	769 Cobblestone AvenueOklahoma City, OK 73110
+CS 3353	Data Structures and Algorithm Analysis I	Robertson, Sage	A805254	srobertson@okstate.edu	9 East Edgewood StreetOklahoma City, OK 73162
+CS 3443	Computer Systems	Vue, Johanna	A570334	jvue@okstate.edu	44 South Wall DriveJones, OK 73049
+CS 3363	Organization of Programming Languages	Gunner Andre, Asa	A718929	agandre@okstate.edu	2 Grove CourtOklahoma City, OK 73139
+CS 4983	Senior Capstone Project	Leal, Shakira	A299464	sleal@okstate.edu	9612 Rockaway Dr.Oklahoma City, OK 73141
+CS 4433	Introduction to Database Systems	Victor Sanders, Raymundo	A972817	rvsanders@okstate.edu	339 Green RoadOklahoma City, OK 73145
+CS 4793	Artificial Intelligence I	Beatty, Kaiden	A159552	kbeatty@okstate.edu	359 Proctor StreetOklahoma City, OK 73120
+CS 3363	Organization of Programming Languages	Ramon, Fidel	A927518	framon@okstate.edu	638 Garden Rd.Oklahoma City, OK 73128
+MATH 3013	Linear Algebra (A)	Newton, Virginia	A828379	vnewton@okstate.edu	8328 Anderson St.Bethany, OK 73008
+CS 2433	C/C++ Programming	Bradly Hudson, Ladarius	A123312	lbhudson@okstate.edu	996 South Sheffield StreetEdmond, OK 73012
+MATH 3013	Linear Algebra (A)	Guillermo Weldon, Gaven	A226565	ggweldon@okstate.edu	758 E. Pineknoll Dr.Oklahoma City, OK 73173
+CS 4570	Special Topics in Computing	Ayden Koch, Cruz	A755610	cakoch@okstate.edu	8529 Green Ave.Oklahoma City, OK 73135
+CS 2433	C/C++ Programming	Zakary Cadena, Marcos	A908387	mzcadena@okstate.edu	8356 NW. Greenview StreetOklahoma City, OK 73114
+CS 3363	Organization of Programming Languages	Barber, Maxim	A861420	mbarber@okstate.edu	922 Lantern DriveOklahoma City, OK 73150
+CS 4523	Cloud Computing and Distributed Systems	Maeve Doyle, Yessica	A539746	ymdoyle@okstate.edu	887 South Sussex DriveEdmond, OK 73034
+CS 4993	Senior Honors Project	Dameon Leslie, Andre	A809909	adleslie@okstate.edu	9010 Plymouth CourtOklahoma City, OK 73106
+CS 3443	Computer Systems	Trystan Negron, German	A261145	gtnegron@okstate.edu	435 Pin Oak St.Arcadia, OK 73007
+CS 4183	Video Game Design	Collazo, Elissa	A298473	ecollazo@okstate.edu	929 Golden Star St.Spencer, OK 73084
+CS 3613	Theoretical Foundations of Computing	Diego Ornelas, Wilson	A303354	wdornelas@okstate.edu	218 Fairground DriveLuther, OK 73054
+CS 4183	Video Game Design	Hamilton, Natali	A987868	nhamilton@okstate.edu	24 Cleveland StreetOklahoma City, OK 73116
+CS 3363	Organization of Programming Languages	Fernandes, Roger	A607037	rfernandes@okstate.edu	457 Foxrun St.Oklahoma City, OK 73119
+CS 3513	Numerical Methods for Digital Computers	Viridiana Parkinson, Alesha	A297185	avparkinson@okstate.edu	59 Main Dr.Oklahoma City, OK 73169
+CS 4143	Computer Graphics	Hagan, Brodie	A351512	bhagan@okstate.edu	7753 Illinois StreetChoctaw, OK 73020
+CS 4523	Cloud Computing and Distributed Systems	Angel Michaels, Cain	A974915	camichaels@okstate.edu	7775 Pineknoll CourtOklahoma City, OK 73122
+CS 3353	Data Structures and Algorithm Analysis I	Duvall, Libby	A649366	lduvall@okstate.edu	7475 Homewood LaneOklahoma City, OK 73179
+CS 3443	Computer Systems	Autry, Annmarie	A578192	aautry@okstate.edu	908 Edgewood LaneOklahoma City, OK 73142
+CS 4243	Introduction to Computer Security	Marcela Gall, Denise	A309872	dmgall@okstate.edu	375 S. Cherry LaneHarrah, OK 73045
+CS 3353	Data Structures and Algorithm Analysis I	Findley, Leilani	A154462	lfindley@okstate.edu	6 Johnson DriveOklahoma City, OK 73107
+CS 3363	Organization of Programming Languages	Laney, Bridgette	A119511	blaney@okstate.edu	703 Honey Creek St.Oklahoma City, OK 73109
+MATH 2163	Calculus III	Joann Kelly, Viviana	A301286	vjkelly@okstate.edu	55C Anderson St.Oklahoma City, OK 73102
+CS 3030	Industrial Practice in Computer Science	Damon Dawson, Dallas	A367187	dddawson@okstate.edu	41 Laurel RoadOklahoma City, OK 73130
+CS 4433	Introduction to Database Systems	Espinosa, Irving	A155891	iespinosa@okstate.edu	56 W. Griffin St.Oklahoma City, OK 73103
+CS 4623	Introduction to Cyber Physical Systems	Windham, Brennon	A877049	bwindham@okstate.edu	1 Purple Finch DriveOklahoma City, OK 73149
+CS 4183	Video Game Design	Liana Beebe, Kirsten	A410223	klbeebe@okstate.edu	540 Tanglewood CourtOklahoma City, OK 73112
+MATH 2163	Calculus III	Henriquez, Lamont	A690360	lhenriquez@okstate.edu	9922 Garden Dr.Oklahoma City, OK 73105
+CS 4273	Software Engineering	Emalee Roark, Yesenia	A526945	yeroark@okstate.edu	457 Maple DriveOklahoma City, OK 73118
+CS 4273	Software Engineering	Whittington, Keshawn	A336629	kwhittington@okstate.edu	8274 Lakeshore Ave.Oklahoma City, OK 73134
+CS 4153	Mobile Applications Development	Nallely Abbott, Shaniya	A902083	snabbott@okstate.edu	69 Blue Spring St.Oklahoma City, OK 73117
+CS 4183	Video Game Design	Horan, Ira	A700066	ihoran@okstate.edu	7288 Locust Ave.Oklahoma City, OK 73115
+CS 4283	Computer Networks	Ronald Arredondo, Julian	A843156	jrarredondo@okstate.edu	33 Walnutwood Rd.Edmond, OK 73025
+CS 4373	Agile Software Development	Dianna Ritchey, Janae	A199006	jdritchey@okstate.edu	8638 Cottage DriveOklahoma City, OK 73127
+CS 3613	Theoretical Foundations of Computing	Myranda Hooker, Melany	A624770	mmhooker@okstate.edu	334 Rocky River CourtOklahoma City, OK 73111
+CS 4793	Artificial Intelligence I	Jeffery, Noah	A568561	njeffery@okstate.edu	9741 Winchester St.Oklahoma City, OK 73129
+CS 3570	Special Problems in Computer Science	Bertrand, Dominique	A214822	dbertrand@okstate.edu	3 Rock Maple Dr.Edmond, OK 73003
+CS 3353	Data Structures and Algorithm Analysis I	Mercy Adam, Dina	A560843	dmadam@okstate.edu	823 Ridge CourtOklahoma City, OK 73121
+CS 4143	Computer Graphics	Gabriela Arroyo, Infant	A290670	igarroyo@okstate.edu	9903 Thomas St.Oklahoma City, OK 73132
+CS 3653	Discrete Mathematics for Computer Science	Tate Fultz, Kendell	A545491	ktfultz@okstate.edu	876 Laurel Dr.Oklahoma City, OK 73104
+CS 4183	Video Game Design	Xochitl Zimmer, Bianca	A908223	bxzimmer@okstate.edu	197 Old Cross Ave.Edmond, OK 73013
+CS 4793	Artificial Intelligence I	Boyce, Trae	A873241	tboyce@okstate.edu	59 Prairie St.Oklahoma City, OK 73131
+CS 3570	Special Problems in Computer Science	Hinson, Joslyn	A429292	jhinson@okstate.edu	685 Bishop StreetOklahoma City, OK 73159
+CS 4243	Introduction to Computer Security	Cabrera, Chelsea	A559736	ccabrera@okstate.edu	71 Wrangler Rd.Oklahoma City, OK 73151
+CS 4743	Extended Reality	Ramey, Bruce	A526623	bramey@okstate.edu	817 South Meadow St.Oklahoma City, OK 73108
+CS 3613	Theoretical Foundations of Computing	Webster, Genaro	A423888	gwebster@okstate.edu	49 Westminster DriveEdmond, OK 73013
+CS 4793	Artificial Intelligence I	Crisp, Leslie	A273357	lcrisp@okstate.edu	7240 Cambridge LaneOklahoma City, OK 73115
+CS 4743	Extended Reality	Groves, Justus	A890808	jgroves@okstate.edu	25 Silver Spear CourtChoctaw, OK 73020
+CS 4243	Introduction to Computer Security	Lancaster, Nico	A776430	nlancaster@okstate.edu	8690 Alton StreetOklahoma City, OK 73128
+CS 4373	Agile Software Development	Christen Medeiros, Dora	A721786	dcmedeiros@okstate.edu	8731 Primrose St.Edmond, OK 73025
+MATH 2163	Calculus III	Levy, Claudia	A407419	clevy@okstate.edu	727 Chapel StreetOklahoma City, OK 73135
+CS 3613	Theoretical Foundations of Computing	Beal, Naya	A169317	nbeal@okstate.edu	89 Cherry LaneSpencer, OK 73084
+CS 2433	C/C++ Programming	Kylah McCrary, Maegan	A572421	mkmccrary@okstate.edu	64 Bayport DriveOklahoma City, OK 73132
+CS 4153	Mobile Applications Development	Tang, Nevin	A590464	ntang@okstate.edu	7349 Ridgewood DriveOklahoma City, OK 73134
+CS 3513	Numerical Methods for Digital Computers	Boyer, Joanna	A576640	jboyer@okstate.edu	650 Tallwood StreetEdmond, OK 73034
+CS 3353	Data Structures and Algorithm Analysis I	Sikes, Levi	A589858	lsikes@okstate.edu	446 West Lawrence DriveOklahoma City, OK 73141

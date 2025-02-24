@@ -23,4 +23,4 @@ Models a heart transplant waiting list using a **priority queue** implemented wi
 Simulates a **university social platform** using a **graph adjacency list**.  
 
 ## Usage  
-Each program contains a `readMe.txt` file within its respective zip archive, detailing how to run it.  
+Each program contains a `readMe.txt` file within its respective directory, detailing how to run it.  
